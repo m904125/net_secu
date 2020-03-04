@@ -1,0 +1,2127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Microsoft Visio, SVG Export에서 생성되었습니다. 20 Firewall.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="11.6929in" height="8.26772in"
+		viewBox="0 0 841.89 595.276" xml:space="preserve" color-interpolation-filters="sRGB" class="st43">
+	<v:documentProperties v:langID="1042" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(0):26"/>
+			<v:ud v:nameU="msvConvertTheme"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
+		.st2 {fill:#ff00ff;fill-opacity:0;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;stroke-width:0.72}
+		.st3 {fill:url(#grad0-37);stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
+		.st4 {fill:#ff0000;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st5 {fill:url(#grad0-49);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
+		.st6 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5}
+		.st7 {fill:url(#grad12-62);stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
+		.st8 {fill:url(#grad11-68);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
+		.st9 {fill:url(#grad0-111)}
+		.st10 {stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.36}
+		.st11 {fill:url(#grad11-116)}
+		.st12 {stroke:#a78450;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.36}
+		.st13 {fill:url(#grad12-123);stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.36}
+		.st14 {fill:url(#grad12-132);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.36}
+		.st15 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.6}
+		.st16 {fill:#000000;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.36}
+		.st17 {fill:url(#grad8-148);stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.12}
+		.st18 {fill:url(#grad10-153);stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.12}
+		.st19 {fill:#000000;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st20 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.36}
+		.st21 {fill:#ffffff;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st22 {fill:#969696;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st23 {fill:#808080;stroke:#808080;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.36}
+		.st24 {fill:url(#grad11-68)}
+		.st25 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
+		.st26 {stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
+		.st27 {fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5}
+		.st28 {fill:#000000;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.12}
+		.st29 {fill:#b3b3b3;fill-opacity:0.6;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st30 {fill:url(#grad3-284);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.12}
+		.st31 {fill:url(#grad10-288);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
+		.st32 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st33 {fill:#000000;font-family:맑은 고딕;font-size:0.75em}
+		.st34 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st35 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st36 {font-size:1em}
+		.st37 {fill:url(#grad12-622)}
+		.st38 {fill:url(#grad0-629)}
+		.st39 {fill:url(#grad11-634)}
+		.st40 {stroke:#e7e4cd;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
+		.st41 {fill:#ffffff}
+		.st42 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st43 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Patterns_And_Gradients">
+		<linearGradient id="grad0-37" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(270 0.5 0.5)">
+			<stop offset="0" stop-color="#ffffff" stop-opacity="1"/>
+			<stop offset="1" stop-color="#dfdfdf" stop-opacity="1"/>
+		</linearGradient>
+		<linearGradient id="grad0-49" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(0 0.5 0.5)">
+			<stop offset="0" stop-color="#c0c0c0" stop-opacity="1"/>
+			<stop offset="0.5" stop-color="#ffffff" stop-opacity="1"/>
+			<stop offset="1" stop-color="#c0c0c0" stop-opacity="1"/>
+		</linearGradient>
+		<pattern id="grad12-62" x="0" y="0" width="1" height="1" patternContentUnits="objectBoundingBox">
+			<path d="M 0 0 L 0 1 L 1 1 z" style="fill:url(#grad0-63)"/>
+			<path d="M 0 0 L 1 0 L 1 1 z" style="fill:url(#grad0-64)"/>
+		</pattern>
+		<linearGradient id="grad0-63" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(90 0.5 0.5)">
+			<stop offset="0" stop-color="#ffffff" stop-opacity="1"/>
+			<stop offset="1" stop-color="#a7a7a7" stop-opacity="1"/>
+		</linearGradient>
+		<linearGradient id="grad0-64" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(360 0.5 0.5)">
+			<stop offset="0" stop-color="#ffffff" stop-opacity="1"/>
+			<stop offset="1" stop-color="#a7a7a7" stop-opacity="1"/>
+		</linearGradient>
+		<pattern id="grad11-68" x="0" y="0" width="1" height="1" patternContentUnits="objectBoundingBox">
+			<path d="M 0 1 L 0 0 L 1 0 z" style="fill:url(#grad0-69)"/>
+			<path d="M 0 1 L 1 1 L 1 0 z" style="fill:url(#grad0-70)"/>
+		</pattern>
+		<linearGradient id="grad0-69" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(180 0.5 0.5)">
+			<stop offset="0" stop-color="#ffffff" stop-opacity="1"/>
+			<stop offset="1" stop-color="#c0c0c0" stop-opacity="1"/>
+		</linearGradient>
+		<linearGradient id="grad0-70" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(90 0.5 0.5)">
+			<stop offset="0" stop-color="#ffffff" stop-opacity="1"/>
+			<stop offset="1" stop-color="#c0c0c0" stop-opacity="1"/>
+		</linearGradient>
+		<linearGradient id="grad0-111" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(270 0.5 0.5)">
+			<stop offset="0" stop-color="#ffffff" stop-opacity="1"/>
+			<stop offset="1" stop-color="#e1d8c1" stop-opacity="1"/>
+		</linearGradient>
+		<pattern id="grad11-116" x="0" y="0" width="1" height="1" patternContentUnits="objectBoundingBox">
+			<path d="M 0 1 L 0 0 L 1 0 z" style="fill:url(#grad0-117)"/>
+			<path d="M 0 1 L 1 1 L 1 0 z" style="fill:url(#grad0-118)"/>
+		</pattern>
+		<linearGradient id="grad0-117" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(180 0.5 0.5)">
+			<stop offset="0" stop-color="#ffffff" stop-opacity="1"/>
+			<stop offset="1" stop-color="#c9ba96" stop-opacity="1"/>
+		</linearGradient>
+		<linearGradient id="grad0-118" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(90 0.5 0.5)">
+			<stop offset="0" stop-color="#ffffff" stop-opacity="1"/>
+			<stop offset="1" stop-color="#c9ba96" stop-opacity="1"/>
+		</linearGradient>
+		<pattern id="grad12-123" x="0" y="0" width="1" height="1" patternContentUnits="objectBoundingBox">
+			<path d="M 0 0 L 0 1 L 1 1 z" style="fill:url(#grad0-124)"/>
+			<path d="M 0 0 L 1 0 L 1 1 z" style="fill:url(#grad0-125)"/>
+		</pattern>
+		<linearGradient id="grad0-124" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(90 0.5 0.5)">
+			<stop offset="0" stop-color="#ffffff" stop-opacity="1"/>
+			<stop offset="1" stop-color="#b6a06d" stop-opacity="1"/>
+		</linearGradient>
+		<linearGradient id="grad0-125" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(360 0.5 0.5)">
+			<stop offset="0" stop-color="#ffffff" stop-opacity="1"/>
+			<stop offset="1" stop-color="#b6a06d" stop-opacity="1"/>
+		</linearGradient>
+		<pattern id="grad12-132" x="0" y="0" width="1" height="1" patternContentUnits="objectBoundingBox">
+			<path d="M 0 0 L 0 1 L 1 1 z" style="fill:url(#grad0-133)"/>
+			<path d="M 0 0 L 1 0 L 1 1 z" style="fill:url(#grad0-134)"/>
+		</pattern>
+		<linearGradient id="grad0-133" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(90 0.5 0.5)">
+			<stop offset="0" stop-color="#ffffff" stop-opacity="1"/>
+			<stop offset="1" stop-color="#339966" stop-opacity="1"/>
+		</linearGradient>
+		<linearGradient id="grad0-134" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(360 0.5 0.5)">
+			<stop offset="0" stop-color="#ffffff" stop-opacity="1"/>
+			<stop offset="1" stop-color="#339966" stop-opacity="1"/>
+		</linearGradient>
+		<linearGradient id="grad0-138" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(270 0.5 0.5)">
+			<stop offset="0" stop-color="#ffffff" stop-opacity="1"/>
+			<stop offset="1" stop-color="#e7e4cd" stop-opacity="1"/>
+		</linearGradient>
+		<pattern id="grad8-148" x="0" y="0" width="1" height="1" patternContentUnits="objectBoundingBox">
+			<path d="M 0 0 L 1 0 L 1 1 z" style="fill:url(#grad0-138)"/>
+			<path d="M 0 0 L 0 1 L 1 1 z" style="fill:url(#grad0-149)"/>
+		</pattern>
+		<linearGradient id="grad0-149" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(180 0.5 0.5)">
+			<stop offset="0" stop-color="#ffffff" stop-opacity="1"/>
+			<stop offset="1" stop-color="#e7e4cd" stop-opacity="1"/>
+		</linearGradient>
+		<pattern id="grad10-153" x="0" y="0" width="1" height="1" patternContentUnits="objectBoundingBox">
+			<path d="M 0.5 0.5 L 0 0 L 0 1 z" style="fill:url(#grad0-154)"/>
+			<path d="M 0.5 0.5 L 1 0 L 1 1 z" style="fill:url(#grad0-155)"/>
+			<path d="M 0.5 0.5 L 0 0 L 1 0 z" style="fill:url(#grad0-156)"/>
+			<path d="M 0.5 0.5 L 0 1 L 1 1 z" style="fill:url(#grad0-157)"/>
+		</pattern>
+		<linearGradient id="grad0-154" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(180 0.5 0.5)">
+			<stop offset="0" stop-color="#000000" stop-opacity="0.4"/>
+			<stop offset="1" stop-color="#e7e4cd" stop-opacity="0.4"/>
+		</linearGradient>
+		<linearGradient id="grad0-155" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(360 0.5 0.5)">
+			<stop offset="0" stop-color="#000000" stop-opacity="0.4"/>
+			<stop offset="1" stop-color="#e7e4cd" stop-opacity="0.4"/>
+		</linearGradient>
+		<linearGradient id="grad0-156" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(270 0.5 0.5)">
+			<stop offset="0" stop-color="#000000" stop-opacity="0.4"/>
+			<stop offset="1" stop-color="#e7e4cd" stop-opacity="0.4"/>
+		</linearGradient>
+		<linearGradient id="grad0-157" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(90 0.5 0.5)">
+			<stop offset="0" stop-color="#000000" stop-opacity="0.4"/>
+			<stop offset="1" stop-color="#e7e4cd" stop-opacity="0.4"/>
+		</linearGradient>
+		<radialGradient id="grad3-284" cx="0.5" cy="0.5" r="0.73">
+			<stop offset="0" stop-color="#ffffff" stop-opacity="1"/>
+			<stop offset="1" stop-color="#008000" stop-opacity="1"/>
+		</radialGradient>
+		<pattern id="grad10-288" x="0" y="0" width="1" height="1" patternContentUnits="objectBoundingBox">
+			<path d="M 0.5 0.5 L 0 0 L 0 1 z" style="fill:url(#grad0-289)"/>
+			<path d="M 0.5 0.5 L 1 0 L 1 1 z" style="fill:url(#grad0-290)"/>
+			<path d="M 0.5 0.5 L 0 0 L 1 0 z" style="fill:url(#grad0-291)"/>
+			<path d="M 0.5 0.5 L 0 1 L 1 1 z" style="fill:url(#grad0-292)"/>
+		</pattern>
+		<linearGradient id="grad0-289" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(180 0.5 0.5)">
+			<stop offset="0" stop-color="#ffffff" stop-opacity="1"/>
+			<stop offset="1" stop-color="#c6d1e3" stop-opacity="1"/>
+		</linearGradient>
+		<linearGradient id="grad0-290" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(360 0.5 0.5)">
+			<stop offset="0" stop-color="#ffffff" stop-opacity="1"/>
+			<stop offset="1" stop-color="#c6d1e3" stop-opacity="1"/>
+		</linearGradient>
+		<linearGradient id="grad0-291" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(270 0.5 0.5)">
+			<stop offset="0" stop-color="#ffffff" stop-opacity="1"/>
+			<stop offset="1" stop-color="#c6d1e3" stop-opacity="1"/>
+		</linearGradient>
+		<linearGradient id="grad0-292" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(90 0.5 0.5)">
+			<stop offset="0" stop-color="#ffffff" stop-opacity="1"/>
+			<stop offset="1" stop-color="#c6d1e3" stop-opacity="1"/>
+		</linearGradient>
+		<pattern id="grad12-622" x="0" y="0" width="1" height="1" patternContentUnits="objectBoundingBox">
+			<path d="M 0 0 L 0 1 L 1 1 z" style="fill:url(#grad0-623)"/>
+			<path d="M 0 0 L 1 0 L 1 1 z" style="fill:url(#grad0-624)"/>
+		</pattern>
+		<linearGradient id="grad0-623" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(90 0.5 0.5)">
+			<stop offset="0" stop-color="#e7e4cd" stop-opacity="1"/>
+			<stop offset="1" stop-color="#ff6600" stop-opacity="1"/>
+		</linearGradient>
+		<linearGradient id="grad0-624" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(360 0.5 0.5)">
+			<stop offset="0" stop-color="#e7e4cd" stop-opacity="1"/>
+			<stop offset="1" stop-color="#ff6600" stop-opacity="1"/>
+		</linearGradient>
+		<linearGradient id="grad0-629" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(270 0.5 0.5)">
+			<stop offset="0" stop-color="#e7e4cd" stop-opacity="1"/>
+			<stop offset="1" stop-color="#ff6600" stop-opacity="1"/>
+		</linearGradient>
+		<pattern id="grad11-634" x="0" y="0" width="1" height="1" patternContentUnits="objectBoundingBox">
+			<path d="M 0 1 L 0 0 L 1 0 z" style="fill:url(#grad0-635)"/>
+			<path d="M 0 1 L 1 1 L 1 0 z" style="fill:url(#grad0-623)"/>
+		</pattern>
+		<linearGradient id="grad0-635" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(180 0.5 0.5)">
+			<stop offset="0" stop-color="#e7e4cd" stop-opacity="1"/>
+			<stop offset="1" stop-color="#ff6600" stop-opacity="1"/>
+		</linearGradient>
+		<linearGradient id="grad0-640" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(0 0.5 0.5)">
+			<stop offset="0" stop-color="#ff6600" stop-opacity="1"/>
+			<stop offset="0.5" stop-color="#e7e4cd" stop-opacity="1"/>
+			<stop offset="1" stop-color="#ff6600" stop-opacity="1"/>
+		</linearGradient>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>페이지-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="연결선" v:index="0"/>
+		<v:layer v:name="Network" v:index="1"/>
+		<v:layer v:name="설명선" v:index="2"/>
+		<g id="shape1248-1" v:mID="1248" v:groupContext="shape" v:layerMember="0" transform="translate(280.63,-335.405)">
+			<title>동적 연결선.1248</title>
+			<path d="M0 595.28 L-68 652.18" class="st1"/>
+		</g>
+		<g id="shape1199-4" v:mID="1199" v:groupContext="shape" v:layerMember="0" transform="translate(338.964,-335.405)">
+			<title>동적 연결선.1199</title>
+			<path d="M6.86 595.28 L7.31 652.18" class="st1"/>
+		</g>
+		<g id="shape1215-7" v:mID="1215" v:groupContext="shape" v:layerMember="0" transform="translate(346.274,-271.417)">
+			<title>동적 연결선.1215</title>
+			<path d="M0 588.19 L-62.81 588.19" class="st1"/>
+		</g>
+		<g id="shape997-10" v:mID="997" v:groupContext="shape" v:layerMember="0" transform="translate(345.827,-342.492)">
+			<title>동적 연결선</title>
+			<path d="M0 602.36 L-65.2 602.36" class="st1"/>
+		</g>
+		<g id="shape998-13" v:mID="998" v:groupContext="shape" v:layerMember="0" transform="translate(280.63,-328.319)">
+			<title>동적 연결선.115</title>
+			<path d="M0 588.19 L-68 588.19" class="st1"/>
+		</g>
+		<g id="shape999-16" v:mID="999" v:groupContext="shape" v:layerMember="0" transform="translate(420.591,-271.417)">
+			<title>동적 연결선.116</title>
+			<path d="M0 588.19 L75.47 588.19" class="st1"/>
+		</g>
+		<g id="shape1000-19" v:mID="1000" v:groupContext="shape" v:layerMember="0" transform="translate(496.063,-271.417)">
+			<title>동적 연결선.117</title>
+			<path d="M0 588.19 L74.76 588.19" class="st1"/>
+		</g>
+		<g id="shape1001-22" v:mID="1001" v:groupContext="shape" v:layerMember="0" transform="translate(417.958,-328.319)">
+			<title>동적 연결선.118</title>
+			<path d="M0 588.19 L103.62 588.19" class="st1"/>
+		</g>
+		<g id="shape1002-25" v:mID="1002" v:groupContext="shape" v:layerMember="0" transform="translate(521.575,-328.319)">
+			<title>동적 연결선.119</title>
+			<path d="M0 588.19 L49.25 588.19" class="st1"/>
+		</g>
+		<g id="shape1003-28" v:mID="1003" v:groupContext="shape" v:layerMember="0" transform="translate(417.958,-328.319)">
+			<title>동적 연결선.120</title>
+			<path d="M0 588.19 L-72.13 588.19" class="st1"/>
+		</g>
+		<g id="group1013-31" transform="translate(404.494,-321.941)" v:mID="1013" v:groupContext="group">
+			<v:custProps>
+				<v:cp v:nameU="ShapeClass" v:lbl="ShapeClass" v:type="0" v:invis="true" v:ask="false" v:langID="1042"
+						v:val="VT4(장비)"/>
+				<v:cp v:nameU="ShapeType" v:lbl="ShapeType" v:type="0" v:invis="true" v:ask="false" v:langID="1042" v:val="VT4(장치)"/>
+				<v:cp v:nameU="SubShapeType" v:lbl="SubShapeType" v:type="0" v:invis="true" v:ask="false" v:langID="1042"
+						v:val="VT4(스위치)"/>
+				<v:cp v:nameU="Manufacturer" v:lbl="제조업체" v:type="0" v:sortKey="Equipment" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="ProductNumber" v:lbl="제품 번호" v:type="0" v:sortKey="Equipment" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="PartNumber" v:lbl="부품 번호" v:type="0" v:sortKey="Equipment" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="ProductDescription" v:lbl="제품 설명" v:type="0" v:sortKey="Equipment" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="AssetNumber" v:lbl="자산 번호" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="SerialNumber" v:lbl="일련 번호" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="Location" v:lbl="위치" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false" v:langID="1042"/>
+				<v:cp v:nameU="Building" v:lbl="건물" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false" v:langID="1042"/>
+				<v:cp v:nameU="Room" v:lbl="방" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false" v:langID="1042"/>
+				<v:cp v:nameU="NetworkName" v:lbl="네트워크 이름" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="IPAddress" v:lbl="IP 주소" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="SubnetMask" v:lbl="서브넷 마스크" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="AdminInterface" v:lbl="관리 인터페이스" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="NumberofPorts" v:lbl="포트 수" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="MACAddress" v:lbl="MAC 주소" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="CommunityString" v:lbl="커뮤니티 문자열" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="NetworkDescription" v:lbl="네트워크 설명" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="HasText" v:val="VT0(0):5"/>
+				<v:ud v:nameU="ShapeClass" v:val="VT0(5):26"/>
+				<v:ud v:nameU="ShapeType" v:val="VT0(8):26"/>
+				<v:ud v:nameU="SubShapeType" v:val="VT0(66):26"/>
+				<v:ud v:nameU="visLegendShape" v:val="VT0(2):26"/>
+				<v:ud v:nameU="SolSH" v:val="VT15({BF0433D9-CD73-4EB5-8390-8653BE590246}):41"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+			</v:userDefs>
+			<title>라우터.10</title>
+			<g id="shape1014-32" v:mID="1014" v:groupContext="shape">
+				<title>시트.1014</title>
+				<path d="M26.93 576.43 A13.4646 8.07874 -180 1 0 0 576.43 L0 587.2 A13.4646 8.07874 -180 1 0 26.93 587.2 L26.93 576.43
+							 Z" class="st2"/>
+			</g>
+			<g id="shape1015-34" v:mID="1015" v:groupContext="shape" transform="translate(0,-10.7717)">
+				<title>시트.1015</title>
+				<ellipse cx="13.4646" cy="587.197" rx="13.4646" ry="8.07874" class="st3"/>
+			</g>
+			<g id="shape1016-38" v:mID="1016" v:groupContext="shape" transform="translate(22.6765,-18.8504) scale(-1,1)">
+				<title>시트.1016</title>
+				<path d="M0 593.73 L0 589.96 L6.53 589.96 L3.85 591.51 L9.21 594.6 L8.05 595.28 L2.68 592.18 L0 593.73 Z"
+						class="st4"/>
+			</g>
+			<g id="shape1017-40" v:mID="1017" v:groupContext="shape" transform="translate(3.66962,-18.8504)">
+				<title>시트.1017</title>
+				<path d="M9.79 591.51 L9.21 594.94 L3.26 595.28 L5.95 593.73 L0 590.29 L1.17 589.62 L7.11 593.05 L9.79 591.51 Z"
+						class="st4"/>
+			</g>
+			<g id="shape1018-42" v:mID="1018" v:groupContext="shape" transform="translate(13.4646,-13.1953)">
+				<title>시트.1018</title>
+				<path d="M0 593.39 L0.58 589.96 L6.53 589.62 L3.85 591.17 L9.79 594.6 L8.63 595.28 L2.68 591.84 L0 593.39 Z"
+						class="st4"/>
+			</g>
+			<g id="shape1019-44" v:mID="1019" v:groupContext="shape" transform="translate(4.25265,1171.7) scale(1,-1)">
+				<title>시트.1019</title>
+				<path d="M0 593.73 L0 589.96 L6.53 589.96 L3.85 591.51 L9.21 594.6 L8.05 595.28 L2.68 592.18 L0 593.73 Z"
+						class="st4"/>
+			</g>
+			<g id="shape1020-46" v:mID="1020" v:groupContext="shape">
+				<title>시트.1020</title>
+				<path d="M0 576.43 L0 587.2 A13.4646 8.07874 -180 1 0 26.93 587.2 L26.93 576.43 A13.4646 8.07874 0 1 1 -0 576.43 Z"
+						class="st5"/>
+			</g>
+			<g id="shape1021-50" v:mID="1021" v:groupContext="shape">
+				<title>시트.1021</title>
+				<path d="M26.93 576.43 A13.4646 8.07874 -180 1 0 0 576.43 L0 587.2 A13.4646 8.07874 -180 1 0 26.93 587.2 L26.93 576.43"
+						class="st6"/>
+			</g>
+		</g>
+		<g id="group1032-53" transform="translate(481.89,-266.196)" v:mID="1032" v:groupContext="group">
+			<v:custProps>
+				<v:cp v:nameU="ShapeClass" v:lbl="ShapeClass" v:type="0" v:invis="true" v:ask="false" v:langID="1042"
+						v:val="VT4(장비)"/>
+				<v:cp v:nameU="ShapeType" v:lbl="ShapeType" v:type="0" v:invis="true" v:ask="false" v:langID="1042" v:val="VT4(장치)"/>
+				<v:cp v:nameU="SubShapeType" v:lbl="SubShapeType" v:type="0" v:invis="true" v:ask="false" v:langID="1042"
+						v:val="VT4(스위치)"/>
+				<v:cp v:nameU="Manufacturer" v:lbl="제조업체" v:type="0" v:sortKey="Equipment" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="ProductNumber" v:lbl="제품 번호" v:type="0" v:sortKey="Equipment" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="PartNumber" v:lbl="부품 번호" v:type="0" v:sortKey="Equipment" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="ProductDescription" v:lbl="제품 설명" v:type="0" v:sortKey="Equipment" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="AssetNumber" v:lbl="자산 번호" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="SerialNumber" v:lbl="일련 번호" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="Location" v:lbl="위치" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false" v:langID="1042"/>
+				<v:cp v:nameU="Building" v:lbl="건물" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false" v:langID="1042"/>
+				<v:cp v:nameU="Room" v:lbl="방" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false" v:langID="1042"/>
+				<v:cp v:nameU="NetworkName" v:lbl="네트워크 이름" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="IPAddress" v:lbl="IP 주소" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="SubnetMask" v:lbl="서브넷 마스크" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="AdminInterface" v:lbl="관리 인터페이스" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="NumberofPorts" v:lbl="포트 수" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="MACAddress" v:lbl="MAC 주소" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="CommunityString" v:lbl="커뮤니티 문자열" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="NetworkDescription" v:lbl="네트워크 설명" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="HasText" v:val="VT0(0):5"/>
+				<v:ud v:nameU="ShapeClass" v:val="VT0(5):26"/>
+				<v:ud v:nameU="ShapeType" v:val="VT0(8):26"/>
+				<v:ud v:nameU="SubShapeType" v:val="VT0(66):26"/>
+				<v:ud v:nameU="visLegendShape" v:val="VT0(2):26"/>
+				<v:ud v:nameU="SolSH" v:val="VT15({BF0433D9-CD73-4EB5-8390-8653BE590246}):41"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+			</v:userDefs>
+			<title>작업 그룹 스위치.38</title>
+			<g id="shape1033-54" v:mID="1033" v:groupContext="shape">
+				<title>시트.1033</title>
+				<path d="M14.17 595.28 L28.35 587.15 L28.35 578.78 L14.17 570.66 L0 578.78 L0 587.15 L14.17 595.28 Z" class="st2"/>
+			</g>
+			<g id="shape1034-56" v:mID="1034" v:groupContext="shape" transform="translate(0,-8.37388)">
+				<title>시트.1034</title>
+				<path d="M14.17 595.28 L28.35 587.15 L14.17 579.03 L0 587.15 L14.17 595.28 Z" class="st3"/>
+			</g>
+			<g id="shape1035-59" v:mID="1035" v:groupContext="shape" transform="translate(14.1732,-1.13687E-13)">
+				<title>시트.1035</title>
+				<path d="M0 595.28 L14.17 587.15 L14.17 578.78 L0 586.9 L0 595.28 Z" class="st7"/>
+			</g>
+			<g id="shape1036-65" v:mID="1036" v:groupContext="shape">
+				<title>시트.1036</title>
+				<path d="M0 587.15 L14.17 595.28 L14.17 586.9 L0 578.78 L0 587.15 Z" class="st8"/>
+			</g>
+			<g id="shape1037-71" v:mID="1037" v:groupContext="shape">
+				<title>시트.1037</title>
+				<path d="M0 578.78 L0 587.15 L14.17 595.28 L28.35 587.15 L28.35 578.78 L14.17 570.66 L0 578.78" class="st6"/>
+			</g>
+			<g id="shape1038-74" v:mID="1038" v:groupContext="shape" transform="translate(15.0829,-13.5509)">
+				<title>시트.1038</title>
+				<path d="M6.87 592.65 L6.46 595.04 L2.29 595.28 L4.17 594.2 L0 591.81 L0.82 591.34 L4.99 593.73 L6.87 592.65 Z"
+						class="st4"/>
+			</g>
+			<g id="shape1039-76" v:mID="1039" v:groupContext="shape" transform="translate(18.8925,1167.89) rotate(180)">
+				<title>시트.1039</title>
+				<path d="M6.87 592.65 L6.46 595.04 L2.29 595.28 L4.17 594.2 L0 591.81 L0.82 591.34 L4.99 593.73 L6.87 592.65 Z"
+						class="st4"/>
+			</g>
+			<g id="shape1040-78" v:mID="1040" v:groupContext="shape" transform="translate(9.47281,-10.3249)">
+				<title>시트.1040</title>
+				<path d="M6.87 592.65 L6.46 595.04 L2.29 595.28 L4.17 594.2 L0 591.81 L0.82 591.34 L4.99 593.73 L6.87 592.65 Z"
+						class="st4"/>
+			</g>
+			<g id="shape1041-80" v:mID="1041" v:groupContext="shape" transform="translate(13.2044,1171.15) rotate(180)">
+				<title>시트.1041</title>
+				<path d="M6.87 592.65 L6.46 595.04 L2.29 595.28 L4.17 594.2 L0 591.81 L0.82 591.34 L4.99 593.73 L6.87 592.65 Z"
+						class="st4"/>
+			</g>
+		</g>
+		<g id="group1042-82" transform="translate(507.402,-323.097)" v:mID="1042" v:groupContext="group">
+			<v:custProps>
+				<v:cp v:nameU="ShapeClass" v:lbl="ShapeClass" v:type="0" v:invis="true" v:ask="false" v:langID="1042"
+						v:val="VT4(장비)"/>
+				<v:cp v:nameU="ShapeType" v:lbl="ShapeType" v:type="0" v:invis="true" v:ask="false" v:langID="1042" v:val="VT4(장치)"/>
+				<v:cp v:nameU="SubShapeType" v:lbl="SubShapeType" v:type="0" v:invis="true" v:ask="false" v:langID="1042"
+						v:val="VT4(스위치)"/>
+				<v:cp v:nameU="Manufacturer" v:lbl="제조업체" v:type="0" v:sortKey="Equipment" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="ProductNumber" v:lbl="제품 번호" v:type="0" v:sortKey="Equipment" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="PartNumber" v:lbl="부품 번호" v:type="0" v:sortKey="Equipment" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="ProductDescription" v:lbl="제품 설명" v:type="0" v:sortKey="Equipment" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="AssetNumber" v:lbl="자산 번호" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="SerialNumber" v:lbl="일련 번호" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="Location" v:lbl="위치" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false" v:langID="1042"/>
+				<v:cp v:nameU="Building" v:lbl="건물" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false" v:langID="1042"/>
+				<v:cp v:nameU="Room" v:lbl="방" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false" v:langID="1042"/>
+				<v:cp v:nameU="NetworkName" v:lbl="네트워크 이름" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="IPAddress" v:lbl="IP 주소" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="SubnetMask" v:lbl="서브넷 마스크" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="AdminInterface" v:lbl="관리 인터페이스" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="NumberofPorts" v:lbl="포트 수" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="MACAddress" v:lbl="MAC 주소" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="CommunityString" v:lbl="커뮤니티 문자열" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="NetworkDescription" v:lbl="네트워크 설명" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="HasText" v:val="VT0(0):5"/>
+				<v:ud v:nameU="ShapeClass" v:val="VT0(5):26"/>
+				<v:ud v:nameU="ShapeType" v:val="VT0(8):26"/>
+				<v:ud v:nameU="SubShapeType" v:val="VT0(66):26"/>
+				<v:ud v:nameU="visLegendShape" v:val="VT0(2):26"/>
+				<v:ud v:nameU="SolSH" v:val="VT15({BF0433D9-CD73-4EB5-8390-8653BE590246}):41"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+			</v:userDefs>
+			<title>작업 그룹 스위치.48</title>
+			<g id="shape1043-83" v:mID="1043" v:groupContext="shape">
+				<title>시트.1043</title>
+				<path d="M14.17 595.28 L28.35 587.15 L28.35 578.78 L14.17 570.66 L0 578.78 L0 587.15 L14.17 595.28 Z" class="st2"/>
+			</g>
+			<g id="shape1044-85" v:mID="1044" v:groupContext="shape" transform="translate(0,-8.37388)">
+				<title>시트.1044</title>
+				<path d="M14.17 595.28 L28.35 587.15 L14.17 579.03 L0 587.15 L14.17 595.28 Z" class="st3"/>
+			</g>
+			<g id="shape1045-88" v:mID="1045" v:groupContext="shape" transform="translate(14.1732,-1.13687E-13)">
+				<title>시트.1045</title>
+				<path d="M0 595.28 L14.17 587.15 L14.17 578.78 L0 586.9 L0 595.28 Z" class="st7"/>
+			</g>
+			<g id="shape1046-91" v:mID="1046" v:groupContext="shape">
+				<title>시트.1046</title>
+				<path d="M0 587.15 L14.17 595.28 L14.17 586.9 L0 578.78 L0 587.15 Z" class="st8"/>
+			</g>
+			<g id="shape1047-94" v:mID="1047" v:groupContext="shape">
+				<title>시트.1047</title>
+				<path d="M0 578.78 L0 587.15 L14.17 595.28 L28.35 587.15 L28.35 578.78 L14.17 570.66 L0 578.78" class="st6"/>
+			</g>
+			<g id="shape1048-97" v:mID="1048" v:groupContext="shape" transform="translate(15.0829,-13.5509)">
+				<title>시트.1048</title>
+				<path d="M6.87 592.65 L6.46 595.04 L2.29 595.28 L4.17 594.2 L0 591.81 L0.82 591.34 L4.99 593.73 L6.87 592.65 Z"
+						class="st4"/>
+			</g>
+			<g id="shape1049-99" v:mID="1049" v:groupContext="shape" transform="translate(18.8925,1167.89) rotate(180)">
+				<title>시트.1049</title>
+				<path d="M6.87 592.65 L6.46 595.04 L2.29 595.28 L4.17 594.2 L0 591.81 L0.82 591.34 L4.99 593.73 L6.87 592.65 Z"
+						class="st4"/>
+			</g>
+			<g id="shape1050-101" v:mID="1050" v:groupContext="shape" transform="translate(9.47281,-10.3249)">
+				<title>시트.1050</title>
+				<path d="M6.87 592.65 L6.46 595.04 L2.29 595.28 L4.17 594.2 L0 591.81 L0.82 591.34 L4.99 593.73 L6.87 592.65 Z"
+						class="st4"/>
+			</g>
+			<g id="shape1051-103" v:mID="1051" v:groupContext="shape" transform="translate(13.2044,1171.15) rotate(180)">
+				<title>시트.1051</title>
+				<path d="M6.87 592.65 L6.46 595.04 L2.29 595.28 L4.17 594.2 L0 591.81 L0.82 591.34 L4.99 593.73 L6.87 592.65 Z"
+						class="st4"/>
+			</g>
+		</g>
+		<g id="group1052-105" transform="translate(559.488,-319.657)" v:mID="1052" v:groupContext="group">
+			<v:custProps>
+				<v:cp v:nameU="Manufacturer" v:lbl="제조업체" v:type="0" v:sortKey="Equipment" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="ProductNumber" v:lbl="제품 번호" v:type="0" v:sortKey="Equipment" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="PartNumber" v:lbl="부품 번호" v:type="0" v:sortKey="Equipment" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="ProductDescription" v:lbl="제품 설명" v:type="0" v:sortKey="Equipment" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="AssetNumber" v:lbl="자산 번호" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="SerialNumber" v:lbl="일련 번호" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="Location" v:lbl="위치" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false" v:langID="1042"/>
+				<v:cp v:nameU="Building" v:lbl="건물" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false" v:langID="1042"/>
+				<v:cp v:nameU="Room" v:lbl="방" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false" v:langID="1042"/>
+				<v:cp v:nameU="Department" v:lbl="부서" v:type="0" v:invis="false" v:ask="false" v:langID="1042"/>
+				<v:cp v:nameU="NetworkName" v:lbl="네트워크 이름" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="IPAddress" v:lbl="IP 주소" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="SubnetMask" v:lbl="서브넷 마스크" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="AdminInterface" v:lbl="관리 인터페이스" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="NumberofPorts" v:lbl="포트 수" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="CommunityString" v:lbl="커뮤니티 문자열" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="NetworkDescription" v:lbl="네트워크 설명" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="CPU" v:lbl="CPU" v:type="0" v:sortKey="Workstation" v:invis="false" v:ask="false" v:langID="1042"/>
+				<v:cp v:nameU="Memory" v:lbl="메모리" v:type="0" v:sortKey="Workstation" v:invis="false" v:ask="false" v:langID="1042"/>
+				<v:cp v:nameU="OperatingSystem" v:lbl="운영 체제" v:type="0" v:sortKey="Workstation" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="BelongsTo" v:lbl="소속" v:type="0" v:invis="true" v:ask="false" v:langID="1042"/>
+				<v:cp v:nameU="ShapeClass" v:lbl="ShapeClass" v:type="0" v:invis="true" v:ask="false" v:langID="1042"
+						v:val="VT4(장비)"/>
+				<v:cp v:nameU="ShapeType" v:lbl="ShapeType" v:type="0" v:invis="true" v:ask="false" v:langID="1042" v:val="VT4(서버)"/>
+				<v:cp v:nameU="MACAddress" v:lbl="MAC 주소" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="HardDriveSize" v:lbl="하드 드라이브 용량" v:type="0" v:sortKey="Workstation" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="HasText" v:val="VT0(0):5"/>
+				<v:ud v:nameU="ShapeClass" v:val="VT0(5):26"/>
+				<v:ud v:nameU="ShapeType" v:val="VT0(24):26"/>
+				<v:ud v:nameU="SolSH" v:val="VT15({BF0433D9-CD73-4EB5-8390-8653BE590246}):41"/>
+				<v:ud v:nameU="visLegendShape" v:val="VT0(2):26"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+			</v:userDefs>
+			<title>서버</title>
+			<g id="shape1053-106" v:mID="1053" v:groupContext="shape">
+				<title>시트.1053</title>
+				<path d="M22.68 568.45 L13.96 563.78 L0 571.38 L0.01 590.91 A14.6831 13.712 -180 0 0 8.61 595.28 L22.68 587.67 L22.68
+							 568.45 ZM3.87 574.42 A15.1532 14.1511 -180 0 0 8.61 576.11 A14.984 13.993 0 0 1 3.87 574.42 Z"
+						class="st2"/>
+			</g>
+			<g id="shape1054-108" v:mID="1054" v:groupContext="shape" transform="translate(0,-19.1687)">
+				<title>시트.1054</title>
+				<path d="M8.61 595.28 L22.68 587.62 L13.96 582.95 L0 590.55 A15.1532 14.1511 -180 0 0 8.61 595.28 L8.61 595.28 Z"
+						class="st9"/>
+				<path d="M8.61 595.28 L22.68 587.62 L13.96 582.95 L0 590.55 A15.1532 14.1511 -180 0 0 8.61 595.28" class="st10"/>
+			</g>
+			<g id="shape1055-113" v:mID="1055" v:groupContext="shape" transform="translate(0.00515277,-1.13687E-13)">
+				<title>시트.1055</title>
+				<path d="M8.61 576.11 A14.984 13.993 0 0 1 0 571.36 L0 590.91 A14.6831 13.712 -180 0 0 8.61 595.28 L8.6 576.11 L8.61
+							 576.11 Z" class="st11"/>
+				<path d="M8.61 576.11 A14.984 13.993 0 0 1 0 571.36 L0 590.91 A14.6831 13.712 -180 0 0 8.61 595.28 L8.6 576.11"
+						class="st12"/>
+			</g>
+			<g id="shape1056-120" v:mID="1056" v:groupContext="shape" transform="translate(8.60569,-0.0216648)">
+				<title>시트.1056</title>
+				<path d="M0 576.13 L0 595.28 L14.07 587.69 L14.07 568.47 L0 576.13 Z" class="st13"/>
+			</g>
+			<g id="shape1057-126" v:mID="1057" v:groupContext="shape" transform="translate(0,-0.000694282)">
+				<title>시트.1057</title>
+				<path d="M22.68 568.45 L13.96 563.78 L0 571.38 L0.01 590.91 A14.6831 13.712 -180 0 0 8.61 595.28 L22.68 587.67 L22.68
+							 568.45" class="st6"/>
+			</g>
+			<g id="shape1058-129" v:mID="1058" v:groupContext="shape" transform="translate(-199.948,25.7745) rotate(-20)">
+				<title>시트.1058</title>
+				<ellipse cx="0.658709" cy="594.379" rx="0.658709" ry="0.896958" class="st14"/>
+			</g>
+			<g id="shape1059-135" v:mID="1059" v:groupContext="shape" transform="translate(1.39552,-2.77005)">
+				<title>시트.1059</title>
+				<path d="M0 589.95 A16.8091 15.3523 -96.44 0 0 5.81 592.94" class="st15"/>
+				<path d="M0 591.12 A16.8091 15.3523 -96.44 0 0 5.81 594.11" class="st15"/>
+				<path d="M0 592.29 A16.8091 15.3523 -96.44 0 0 5.81 595.28" class="st15"/>
+			</g>
+			<g id="group1060-142" transform="translate(1.16293,-13.576)" v:mID="1060" v:groupContext="group">
+				<title>시트.1060</title>
+				<g id="shape1061-143" v:mID="1061" v:groupContext="shape" transform="translate(0,-3.14205)">
+					<title>시트.1061</title>
+					<path d="M0.21 592.29 A14.6658 13.6959 -180 0 0 6.02 595.28 a0.298001 0.278293 -180 0 0 0 -0.543012 A14.2668
+								 13.3233 0 0 1 0.32 591.83 a0.193061 0.180293 -180 0 0 -0.322312 0.15327 a0.420767 0.392941 -180
+								 0 0 0.206019 0.302859 Z" class="st16"/>
+				</g>
+				<g id="shape1062-145" v:mID="1062" v:groupContext="shape" transform="translate(1.84925,-3.82651)">
+					<title>시트.1062</title>
+					<path d="M1.79 595.25 A2.17915 1.32658 -90.9 0 0 0.04 594.38 a1.43377 0.71483 -180 0 0 1.7444 0.868819 Z"
+							class="st17"/>
+				</g>
+				<g id="shape1063-150" v:mID="1063" v:groupContext="shape" transform="translate(0.232586,-0.0271506)">
+					<title>시트.1063</title>
+					<path d="M0 590.77 L0 592.29 A15.776 14.7327 -180 0 0 5.81 595.28 L5.81 593.76 A16.2923 15.2149 0 0 1 -0 590.77
+								 Z" class="st18"/>
+				</g>
+				<g id="shape1064-158" v:mID="1064" v:groupContext="shape" transform="translate(0.232586,-0.868819)">
+					<title>시트.1064</title>
+					<path d="M0 592.29 A14.2791 13.3347 -180 0 0 5.81 595.28 L5.81 594.9 A15.7823 14.7386 0 0 1 0 591.91 L0 592.29
+								 Z" class="st19"/>
+				</g>
+				<g id="shape1065-160" v:mID="1065" v:groupContext="shape" transform="translate(0.232586,-0.0543012)">
+					<title>시트.1065</title>
+					<path d="M0 590.77 L0 592.29 A15.776 14.7327 -180 0 0 5.81 595.28" class="st10"/>
+				</g>
+				<g id="shape1066-163" v:mID="1066" v:groupContext="shape" transform="translate(0.232586,0)">
+					<title>시트.1066</title>
+					<path d="M5.81 595.28 L5.81 593.76 A16.2923 15.2149 0 0 1 -0 590.77" class="st20"/>
+				</g>
+			</g>
+		</g>
+		<g id="group1067-167" transform="translate(559.488,-262.756)" v:mID="1067" v:groupContext="group">
+			<v:custProps>
+				<v:cp v:nameU="Manufacturer" v:lbl="제조업체" v:type="0" v:sortKey="Equipment" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="ProductNumber" v:lbl="제품 번호" v:type="0" v:sortKey="Equipment" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="PartNumber" v:lbl="부품 번호" v:type="0" v:sortKey="Equipment" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="ProductDescription" v:lbl="제품 설명" v:type="0" v:sortKey="Equipment" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="AssetNumber" v:lbl="자산 번호" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="SerialNumber" v:lbl="일련 번호" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="Location" v:lbl="위치" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false" v:langID="1042"/>
+				<v:cp v:nameU="Building" v:lbl="건물" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false" v:langID="1042"/>
+				<v:cp v:nameU="Room" v:lbl="방" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false" v:langID="1042"/>
+				<v:cp v:nameU="Department" v:lbl="부서" v:type="0" v:invis="false" v:ask="false" v:langID="1042"/>
+				<v:cp v:nameU="NetworkName" v:lbl="네트워크 이름" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="IPAddress" v:lbl="IP 주소" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="SubnetMask" v:lbl="서브넷 마스크" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="AdminInterface" v:lbl="관리 인터페이스" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="NumberofPorts" v:lbl="포트 수" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="CommunityString" v:lbl="커뮤니티 문자열" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="NetworkDescription" v:lbl="네트워크 설명" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="CPU" v:lbl="CPU" v:type="0" v:sortKey="Workstation" v:invis="false" v:ask="false" v:langID="1042"/>
+				<v:cp v:nameU="Memory" v:lbl="메모리" v:type="0" v:sortKey="Workstation" v:invis="false" v:ask="false" v:langID="1042"/>
+				<v:cp v:nameU="OperatingSystem" v:lbl="운영 체제" v:type="0" v:sortKey="Workstation" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="BelongsTo" v:lbl="소속" v:type="0" v:invis="true" v:ask="false" v:langID="1042"/>
+				<v:cp v:nameU="ShapeClass" v:lbl="ShapeClass" v:type="0" v:invis="true" v:ask="false" v:langID="1042"
+						v:val="VT4(장비)"/>
+				<v:cp v:nameU="ShapeType" v:lbl="ShapeType" v:type="0" v:invis="true" v:ask="false" v:langID="1042" v:val="VT4(서버)"/>
+				<v:cp v:nameU="MACAddress" v:lbl="MAC 주소" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="HardDriveSize" v:lbl="하드 드라이브 용량" v:type="0" v:sortKey="Workstation" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="HasText" v:val="VT0(0):5"/>
+				<v:ud v:nameU="ShapeClass" v:val="VT0(5):26"/>
+				<v:ud v:nameU="ShapeType" v:val="VT0(24):26"/>
+				<v:ud v:nameU="SolSH" v:val="VT15({BF0433D9-CD73-4EB5-8390-8653BE590246}):41"/>
+				<v:ud v:nameU="visLegendShape" v:val="VT0(2):26"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+			</v:userDefs>
+			<title>서버.73</title>
+			<g id="shape1068-168" v:mID="1068" v:groupContext="shape">
+				<title>시트.1068</title>
+				<path d="M22.68 568.45 L13.96 563.78 L0 571.38 L0.01 590.91 A14.6831 13.712 -180 0 0 8.61 595.28 L22.68 587.67 L22.68
+							 568.45 ZM3.87 574.42 A15.1532 14.1511 -180 0 0 8.61 576.11 A14.984 13.993 0 0 1 3.87 574.42 Z"
+						class="st2"/>
+			</g>
+			<g id="shape1069-170" v:mID="1069" v:groupContext="shape" transform="translate(0,-19.1687)">
+				<title>시트.1069</title>
+				<path d="M8.61 595.28 L22.68 587.62 L13.96 582.95 L0 590.55 A15.1532 14.1511 -180 0 0 8.61 595.28 L8.61 595.28 Z"
+						class="st9"/>
+				<path d="M8.61 595.28 L22.68 587.62 L13.96 582.95 L0 590.55 A15.1532 14.1511 -180 0 0 8.61 595.28" class="st10"/>
+			</g>
+			<g id="shape1070-174" v:mID="1070" v:groupContext="shape" transform="translate(0.00515277,-1.13687E-13)">
+				<title>시트.1070</title>
+				<path d="M8.61 576.11 A14.984 13.993 0 0 1 0 571.36 L0 590.91 A14.6831 13.712 -180 0 0 8.61 595.28 L8.6 576.11 L8.61
+							 576.11 Z" class="st11"/>
+				<path d="M8.61 576.11 A14.984 13.993 0 0 1 0 571.36 L0 590.91 A14.6831 13.712 -180 0 0 8.61 595.28 L8.6 576.11"
+						class="st12"/>
+			</g>
+			<g id="shape1071-178" v:mID="1071" v:groupContext="shape" transform="translate(8.60569,-0.0216648)">
+				<title>시트.1071</title>
+				<path d="M0 576.13 L0 595.28 L14.07 587.69 L14.07 568.47 L0 576.13 Z" class="st13"/>
+			</g>
+			<g id="shape1072-181" v:mID="1072" v:groupContext="shape" transform="translate(0,-0.000694282)">
+				<title>시트.1072</title>
+				<path d="M22.68 568.45 L13.96 563.78 L0 571.38 L0.01 590.91 A14.6831 13.712 -180 0 0 8.61 595.28 L22.68 587.67 L22.68
+							 568.45" class="st6"/>
+			</g>
+			<g id="shape1073-184" v:mID="1073" v:groupContext="shape" transform="translate(-199.948,25.7745) rotate(-20)">
+				<title>시트.1073</title>
+				<ellipse cx="0.658709" cy="594.379" rx="0.658709" ry="0.896958" class="st14"/>
+			</g>
+			<g id="shape1074-187" v:mID="1074" v:groupContext="shape" transform="translate(1.39552,-2.77005)">
+				<title>시트.1074</title>
+				<path d="M0 589.95 A16.8091 15.3523 -96.44 0 0 5.81 592.94" class="st15"/>
+				<path d="M0 591.12 A16.8091 15.3523 -96.44 0 0 5.81 594.11" class="st15"/>
+				<path d="M0 592.29 A16.8091 15.3523 -96.44 0 0 5.81 595.28" class="st15"/>
+			</g>
+			<g id="group1075-193" transform="translate(1.16293,-13.576)" v:mID="1075" v:groupContext="group">
+				<title>시트.1075</title>
+				<g id="shape1076-194" v:mID="1076" v:groupContext="shape" transform="translate(0,-3.14205)">
+					<title>시트.1076</title>
+					<path d="M0.21 592.29 A14.6658 13.6959 -180 0 0 6.02 595.28 a0.298001 0.278293 -180 0 0 0 -0.543012 A14.2668
+								 13.3233 0 0 1 0.32 591.83 a0.193061 0.180293 -180 0 0 -0.322312 0.15327 a0.420767 0.392941 -180
+								 0 0 0.206019 0.302859 Z" class="st16"/>
+				</g>
+				<g id="shape1077-196" v:mID="1077" v:groupContext="shape" transform="translate(1.84925,-3.82651)">
+					<title>시트.1077</title>
+					<path d="M1.79 595.25 A2.17915 1.32658 -90.9 0 0 0.04 594.38 a1.43377 0.71483 -180 0 0 1.7444 0.868819 Z"
+							class="st17"/>
+				</g>
+				<g id="shape1078-199" v:mID="1078" v:groupContext="shape" transform="translate(0.232586,-0.0271506)">
+					<title>시트.1078</title>
+					<path d="M0 590.77 L0 592.29 A15.776 14.7327 -180 0 0 5.81 595.28 L5.81 593.76 A16.2923 15.2149 0 0 1 -0 590.77
+								 Z" class="st18"/>
+				</g>
+				<g id="shape1079-202" v:mID="1079" v:groupContext="shape" transform="translate(0.232586,-0.868819)">
+					<title>시트.1079</title>
+					<path d="M0 592.29 A14.2791 13.3347 -180 0 0 5.81 595.28 L5.81 594.9 A15.7823 14.7386 0 0 1 0 591.91 L0 592.29
+								 Z" class="st19"/>
+				</g>
+				<g id="shape1080-204" v:mID="1080" v:groupContext="shape" transform="translate(0.232586,-0.0543012)">
+					<title>시트.1080</title>
+					<path d="M0 590.77 L0 592.29 A15.776 14.7327 -180 0 0 5.81 595.28" class="st10"/>
+				</g>
+				<g id="shape1081-207" v:mID="1081" v:groupContext="shape" transform="translate(0.232586,0)">
+					<title>시트.1081</title>
+					<path d="M5.81 595.28 L5.81 593.76 A16.2923 15.2149 0 0 1 -0 590.77" class="st20"/>
+				</g>
+			</g>
+		</g>
+		<g id="group1082-211" transform="translate(197.748,-320.524)" v:mID="1082" v:groupContext="group">
+			<v:custProps>
+				<v:cp v:nameU="Manufacturer" v:lbl="제조업체" v:type="0" v:sortKey="Equipment" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="ProductNumber" v:lbl="제품 번호" v:type="0" v:sortKey="Equipment" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="PartNumber" v:lbl="부품 번호" v:type="0" v:sortKey="Equipment" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="ProductDescription" v:lbl="제품 설명" v:type="0" v:sortKey="Equipment" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="AssetNumber" v:lbl="자산 번호" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="SerialNumber" v:lbl="일련 번호" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="Location" v:lbl="위치" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false" v:langID="1042"/>
+				<v:cp v:nameU="Building" v:lbl="건물" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false" v:langID="1042"/>
+				<v:cp v:nameU="Room" v:lbl="방" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false" v:langID="1042"/>
+				<v:cp v:nameU="Department" v:lbl="부서" v:type="0" v:invis="false" v:ask="false" v:langID="1042"/>
+				<v:cp v:nameU="NetworkName" v:lbl="네트워크 이름" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="IPAddress" v:lbl="IP 주소" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="SubnetMask" v:lbl="서브넷 마스크" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="AdminInterface" v:lbl="관리 인터페이스" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="NumberofPorts" v:lbl="포트 수" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="CommunityString" v:lbl="커뮤니티 문자열" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="NetworkDescription" v:lbl="네트워크 설명" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="CPU" v:lbl="CPU" v:type="0" v:sortKey="Workstation" v:invis="false" v:ask="false" v:langID="1042"/>
+				<v:cp v:nameU="Memory" v:lbl="메모리" v:type="0" v:sortKey="Workstation" v:invis="false" v:ask="false" v:langID="1042"/>
+				<v:cp v:nameU="OperatingSystem" v:lbl="운영 체제" v:type="0" v:sortKey="Workstation" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="BelongsTo" v:lbl="소속" v:type="0" v:invis="true" v:ask="false" v:langID="1042"/>
+				<v:cp v:nameU="ShapeClass" v:lbl="ShapeClass" v:type="0" v:invis="true" v:ask="false" v:langID="1042"
+						v:val="VT4(장비)"/>
+				<v:cp v:nameU="ShapeType" v:lbl="ShapeType" v:type="0" v:invis="true" v:ask="false" v:langID="1042"
+						v:val="VT4(컴퓨터)"/>
+				<v:cp v:nameU="SubShapeType" v:lbl="SubShapeType" v:type="0" v:invis="true" v:ask="false" v:langID="1042"
+						v:val="VT4(데스크톱)"/>
+				<v:cp v:nameU="MACAddress" v:lbl="MAC 주소" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="HardDriveSize" v:lbl="하드 드라이브 용량" v:type="0" v:sortKey="Workstation" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="HasText" v:val="VT0(0):5"/>
+				<v:ud v:nameU="ShapeClass" v:val="VT0(5):26"/>
+				<v:ud v:nameU="ShapeType" v:val="VT0(6):26"/>
+				<v:ud v:nameU="SubShapeType" v:val="VT0(17):26"/>
+				<v:ud v:nameU="SolSH" v:val="VT15({BF0433D9-CD73-4EB5-8390-8653BE590246}):41"/>
+				<v:ud v:nameU="visLegendShape" v:val="VT0(2):26"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+			</v:userDefs>
+			<title>PC.1082</title>
+			<g id="shape1083-212" v:mID="1083" v:groupContext="shape">
+				<title>시트.1083</title>
+				<path d="M26.3 576.56 L26.3 570.17 L18.98 565.9 L15.6 566.87 L13.29 565.51 L10.6 566.58 L10.6 576.7 L8.04 578.21
+							 L8.04 582.87 A25.8986 26.0674 -180 0 0 19.26 589.36 L29.76 583.25 L29.76 578.6 L26.3 576.56 ZM0 587.33
+							 L0 588.68 L11.37 595.28 L16.66 592.17 L16.66 590.43 L5.11 583.74 L0 587.33 Z" class="st2"/>
+			</g>
+			<g id="shape1084-214" v:mID="1084" v:groupContext="shape" transform="translate(11.3661,0)">
+				<title>시트.1084</title>
+				<path d="M0 595.28 L0 593.93 L5.3 590.43 L5.3 592.17 L0 595.28 Z" class="st7"/>
+			</g>
+			<g id="shape1085-217" v:mID="1085" v:groupContext="shape" transform="translate(1.51879E-13,-1.34496)">
+				<title>시트.1085</title>
+				<path d="M0 588.67 L5.11 585.08 L16.66 591.77 L11.37 595.28 L0 588.67 Z" class="st3"/>
+			</g>
+			<g id="shape1086-220" v:mID="1086" v:groupContext="shape" transform="translate(8.04296,-10.5743)">
+				<title>시트.1086</title>
+				<path d="M11.22 595.28 L21.72 589.17 L10.45 582.58 L0 588.79 A26.4837 26.6563 -180 0 0 11.22 595.28 Z" class="st3"/>
+			</g>
+			<g id="shape1087-223" v:mID="1087" v:groupContext="shape" transform="translate(20.0352,-12.4097)">
+				<title>시트.1087</title>
+				<path d="M0 595.28 L0 584.42 L2.21 583.13 L2.12 593.43 L0 595.28 Z" class="st7"/>
+			</g>
+			<g id="shape1088-226" v:mID="1088" v:groupContext="shape" transform="translate(22.1543,-15.3182)">
+				<title>시트.1088</title>
+				<path d="M0.08 587.05 L4.14 585.48 L4.14 591.88 L0 595.28 L0.08 587.05 Z" class="st7"/>
+			</g>
+			<g id="shape1089-229" v:mID="1089" v:groupContext="shape" transform="translate(15.6043,-23.5437)">
+				<title>시트.1089</title>
+				<path d="M6.63 595.28 L6.64 594.26 L0 590.41 L3.37 589.44 L10.69 593.71 L6.63 595.28 Z" class="st3"/>
+			</g>
+			<g id="shape1090-232" v:mID="1090" v:groupContext="shape" transform="translate(19.2646,-5.91398)">
+				<title>시트.1090</title>
+				<path d="M0 590.62 L10.5 584.51 L10.5 589.17 L0 595.28 L0 590.62 Z" class="st7"/>
+			</g>
+			<g id="shape1091-235" v:mID="1091" v:groupContext="shape" transform="translate(10.5955,-23.2681)">
+				<title>시트.1091</title>
+				<path d="M0 589.85 L2.7 588.78 L5.02 590.14 L11.65 593.99 L9.44 595.28 A26.4322 26.6044 0 0 1 -0 589.85 Z"
+						class="st3"/>
+			</g>
+			<g id="shape1092-238" v:mID="1092" v:groupContext="shape">
+				<title>시트.1092</title>
+				<path d="M0 587.33 L11.37 593.93 L11.37 595.28 L0 588.68 L0 587.33 Z" class="st8"/>
+			</g>
+			<g id="group1093-241" transform="translate(1.23781,-2.03624)" v:mID="1093" v:groupContext="group">
+				<title>시트.1093</title>
+				<g id="shape1094-242" v:mID="1094" v:groupContext="shape" transform="translate(0,-0.198451)">
+					<title>시트.1094</title>
+					<path d="M0 589.18 L0.83 589.68 L1.53 589.22 L0.69 588.73 L0 589.18 ZM1.03 588.49 L1.87 588.99 L2.56 588.53 L1.73
+								 588.03 L1.03 588.49 ZM2.06 587.8 L2.9 588.29 L3.59 587.83 L2.76 587.34 L2.06 587.8 ZM3.1 587.1 L3.93
+								 587.6 L4.62 587.14 L3.79 586.64 L3.1 587.1 ZM4.64 588.03 L5.48 588.53 L6.17 588.07 L5.34 587.58
+								 L4.64 588.03 ZM6.19 588.97 L7.02 589.46 L7.72 589.01 L6.89 588.51 L6.19 588.97 ZM7.74 589.9 L8.57
+								 590.39 L9.27 589.94 L8.43 589.44 L7.74 589.9 ZM10.83 591.76 L11.67 592.26 L12.36 591.8 L11.53 591.31
+								 L10.83 591.76 ZM12.38 592.7 L13.22 593.19 L13.91 592.74 L13.08 592.24 L12.38 592.7 ZM11.35 593.39
+								 L12.18 593.89 L12.88 593.43 L12.04 592.93 L11.35 593.39 ZM9.8 592.46 L10.64 592.95 L11.33 592.5
+								 L10.5 592 L9.8 592.46 ZM9.29 590.83 L10.12 591.33 L10.81 590.87 L9.98 590.37 L9.29 590.83 ZM8.25
+								 591.53 L9.09 592.02 L9.78 591.56 L8.95 591.07 L8.25 591.53 ZM6.71 590.59 L7.54 591.09 L8.23 590.63
+								 L7.4 590.14 L6.71 590.59 ZM5.16 589.66 L5.99 590.16 L6.69 589.7 L5.85 589.2 L5.16 589.66 ZM3.61
+								 588.73 L4.44 589.22 L5.14 588.77 L4.31 588.27 L3.61 588.73 ZM2.58 589.42 L3.41 589.92 L4.11 589.46
+								 L3.27 588.97 L2.58 589.42 ZM4.13 590.35 L4.96 590.85 L5.66 590.39 L4.82 589.9 L4.13 590.35 ZM5.68
+								 591.29 L6.51 591.78 L7.2 591.33 L6.37 590.83 L5.68 591.29 ZM7.22 592.22 L8.06 592.72 L8.75 592.26
+								 L7.92 591.76 L7.22 592.22 ZM8.77 593.15 L9.6 593.65 L10.3 593.19 L9.46 592.7 L8.77 593.15 ZM10.32
+								 594.09 L11.15 594.58 L11.85 594.12 L11.01 593.63 L10.32 594.09 ZM9.29 594.78 L10.12 595.28 L10.81
+								 594.82 L9.98 594.32 L9.29 594.78 ZM7.74 593.85 L8.57 594.34 L9.27 593.89 L8.43 593.39 L7.74 593.85
+								 ZM3.1 591.05 L7.02 593.41 L7.72 592.95 L3.79 590.59 L3.1 591.05 ZM1.55 590.12 L2.38 590.61 L3.08
+								 590.16 L2.24 589.66 L1.55 590.12 Z" class="st21"/>
+				</g>
+				<g id="shape1095-244" v:mID="1095" v:groupContext="shape" transform="translate(0.000327349,0)">
+					<title>시트.1095</title>
+					<path d="M3.1 587.1 L3.93 587.6 L3.93 587.4 L3.1 586.9 L3.1 587.1 ZM4.64 588.03 L5.48 588.53 L5.48 588.33 L4.64
+								 587.83 L4.64 588.03 ZM6.19 588.97 L7.02 589.46 L7.02 589.26 L6.19 588.77 L6.19 588.97 ZM7.74 589.9
+								 L8.57 590.39 L8.57 590.2 L7.74 589.7 L7.74 589.9 ZM9.29 590.83 L10.12 591.33 L10.12 591.13 L9.29
+								 590.63 L9.29 590.83 ZM10.83 591.76 L11.67 592.26 L11.67 592.06 L10.83 591.56 L10.83 591.76 ZM3.93
+								 587.4 L3.93 587.6 L4.62 587.14 L4.62 586.94 L3.93 587.4 ZM5.48 588.33 L5.48 588.53 L6.17 588.07
+								 L6.17 587.87 L5.48 588.33 ZM7.02 589.26 L7.02 589.46 L7.72 589 L7.72 588.81 L7.02 589.26 ZM8.57
+								 590.2 L8.57 590.39 L9.27 589.94 L9.27 589.74 L8.57 590.2 ZM10.12 591.13 L10.12 591.33 L10.81 590.87
+								 L10.81 590.67 L10.12 591.13 ZM11.67 592.06 L11.67 592.26 L12.36 591.8 L12.36 591.6 L11.67 592.06
+								 ZM12.38 592.7 L13.21 593.19 L13.21 592.99 L12.38 592.5 L12.38 592.7 ZM13.21 592.99 L13.21 593.19
+								 L13.91 592.74 L13.91 592.54 L13.21 592.99 ZM2.06 587.79 L2.9 588.29 L2.9 588.09 L2.06 587.6 L2.06
+								 587.79 ZM3.61 588.73 L4.44 589.22 L4.44 589.03 L3.61 588.53 L3.61 588.73 ZM5.16 589.66 L5.99 590.16
+								 L5.99 589.96 L5.16 589.46 L5.16 589.66 ZM6.71 590.59 L7.54 591.09 L7.54 590.89 L6.71 590.39 L6.71
+								 590.59 ZM8.25 591.52 L9.09 592.02 L9.09 591.82 L8.25 591.33 L8.25 591.52 ZM9.8 592.46 L10.64 592.95
+								 L10.64 592.76 L9.8 592.26 L9.8 592.46 ZM2.9 588.09 L2.9 588.29 L3.59 587.83 L3.59 587.64 L2.9 588.09
+								 ZM4.44 589.02 L4.44 589.22 L5.14 588.77 L5.14 588.57 L4.44 589.02 ZM5.99 589.96 L5.99 590.16 L6.69
+								 589.7 L6.69 589.5 L5.99 589.96 ZM7.54 590.89 L7.54 591.09 L8.23 590.63 L8.23 590.43 L7.54 590.89
+								 ZM9.09 591.82 L9.09 592.02 L9.78 591.56 L9.78 591.37 L9.09 591.82 ZM10.64 592.76 L10.64 592.95 L11.33
+								 592.5 L11.33 592.3 L10.64 592.76 ZM11.35 593.39 L12.18 593.89 L12.18 593.69 L11.35 593.19 L11.35
+								 593.39 ZM12.18 593.69 L12.18 593.89 L12.88 593.43 L12.88 593.23 L12.18 593.69 ZM1.03 588.49 L1.87
+								 588.99 L1.87 588.79 L1.03 588.29 L1.03 588.49 ZM2.58 589.42 L3.41 589.92 L3.41 589.72 L2.58 589.22
+								 L2.58 589.42 ZM4.13 590.35 L4.96 590.85 L4.96 590.65 L4.13 590.16 L4.13 590.35 ZM5.67 591.29 L6.51
+								 591.78 L6.51 591.58 L5.67 591.09 L5.67 591.29 ZM7.22 592.22 L8.06 592.72 L8.06 592.52 L7.22 592.02
+								 L7.22 592.22 ZM8.77 593.15 L9.6 593.65 L9.6 593.45 L8.77 592.95 L8.77 593.15 ZM1.86 588.79 L1.86
+								 588.98 L2.56 588.53 L2.56 588.33 L1.86 588.79 ZM3.41 589.72 L3.41 589.92 L4.11 589.46 L4.11 589.26
+								 L3.41 589.72 ZM4.96 590.65 L4.96 590.85 L5.65 590.39 L5.65 590.2 L4.96 590.65 ZM6.51 591.58 L6.51
+								 591.78 L7.2 591.33 L7.2 591.13 L6.51 591.58 ZM8.06 592.52 L8.06 592.72 L8.75 592.26 L8.75 592.06
+								 L8.06 592.52 ZM9.6 593.45 L9.6 593.65 L10.3 593.19 L10.3 592.99 L9.6 593.45 ZM10.32 594.08 L11.15
+								 594.58 L11.15 594.38 L10.32 593.89 L10.32 594.08 ZM11.15 594.38 L11.15 594.58 L11.85 594.12 L11.85
+								 593.93 L11.15 594.38 ZM0 589.18 L0.83 589.68 L0.83 589.48 L0 588.99 L0 589.18 ZM1.55 590.12 L2.38
+								 590.61 L2.38 590.41 L1.55 589.92 L1.55 590.12 ZM3.1 591.05 L7.02 593.41 L7.02 593.21 L3.1 590.85
+								 L3.1 591.05 ZM7.74 593.85 L8.57 594.34 L8.57 594.14 L7.74 593.65 L7.74 593.85 ZM0.83 589.48 L0.83
+								 589.68 L1.53 589.22 L1.53 589.02 L0.83 589.48 ZM2.38 590.41 L2.38 590.61 L3.08 590.16 L3.08 589.96
+								 L2.38 590.41 ZM7.02 593.21 L7.02 593.41 L7.72 592.95 L7.72 592.76 L7.02 593.21 ZM8.57 594.14 L8.57
+								 594.34 L9.27 593.89 L9.27 593.69 L8.57 594.14 ZM9.29 594.78 L10.12 595.28 L10.12 595.08 L9.29 594.58
+								 L9.29 594.78 ZM10.12 595.08 L10.12 595.28 L10.81 594.82 L10.81 594.62 L10.12 595.08 Z"
+							class="st22"/>
+				</g>
+			</g>
+			<g id="shape1096-246" v:mID="1096" v:groupContext="shape" transform="translate(27.3118,-11.9685)">
+				<title>시트.1096</title>
+				<path d="M0.72 592.41 L1.32 592.03 L1.32 594.51 L0.72 594.89 L0.72 592.41 ZM0 592.8 L0.33 592.6 L0.33 595.08 L0 595.28
+							 L0 592.8 Z" class="st23"/>
+			</g>
+			<g id="shape1097-248" v:mID="1097" v:groupContext="shape" transform="translate(8.04296,-5.91398)">
+				<title>시트.1097</title>
+				<path d="M11.99 588.78 A21.4589 21.5987 0 0 1 2.55 583.45 L2.55 572.49 A26.0075 26.1769 -180 0 0 11.99 577.92 L11.99
+							 588.78 ZM-0 588.78 A25.8986 26.0674 -180 0 0 11.22 595.28 L11.22 590.62 A26.0616 26.2314 0 0 1 -0 584.13
+							 L0 588.78 Z" class="st24"/>
+				<path d="M11.99 588.78 A21.4589 21.5987 0 0 1 2.55 583.45 L2.55 572.49 A26.0075 26.1769 -180 0 0 11.99 577.92 L11.99
+							 588.78" class="st25"/>
+				<path d="M0.82 586.07 A15.4046 15.3049 -90 0 0 3.32 588.1" class="st25"/>
+				<path d="M0.82 586.74 A15.4046 15.3049 -90 0 0 3.32 588.78" class="st25"/>
+				<path d="M0.82 587.42 A15.4046 15.3049 -90 0 0 3.32 589.46" class="st25"/>
+				<path d="M0.82 588.1 A15.4046 15.3049 -90 0 0 3.32 590.14" class="st25"/>
+				<path d="M9.87 573.6 L14.3 576.18" class="st25"/>
+				<path d="M10.45 573.44 L14.88 576.02" class="st25"/>
+				<path d="M11.03 573.28 L15.46 575.85" class="st25"/>
+				<path d="M11.61 573.12 L16.04 575.69" class="st25"/>
+				<path d="M-0 588.78 A25.8986 26.0674 -180 0 0 11.22 595.28 L11.22 590.62 A26.0616 26.2314 0 0 1 -0 584.13 L0 588.78"
+						class="st25"/>
+			</g>
+			<g id="shape1098-261" v:mID="1098" v:groupContext="shape" transform="translate(11.7514,-14.3659)">
+				<title>시트.1098</title>
+				<path d="M0 583.37 L0 591.22 A22.1924 22.0487 -90.11 0 0 6.84 595.28" class="st26"/>
+			</g>
+			<g id="shape1099-265" v:mID="1099" v:groupContext="shape">
+				<title>시트.1099</title>
+				<path d="M19.26 589.36 L29.76 583.25 L29.76 578.6 L26.3 576.56 L26.3 570.17 L18.98 565.9 L15.6 566.87 L13.29 565.51
+							 L10.6 566.58 L10.6 576.76 L8.04 578.21 L8.04 582.87 A26.5162 26.3446 -90 0 0 19.26 589.36 ZM0 587.33
+							 L5.11 583.74 L16.66 590.43 L16.66 592.17 L11.37 595.28 L0 588.68 L0 587.33 Z" class="st27"/>
+			</g>
+			<g id="group1100-267" transform="translate(13.9668,-7.56213)" v:mID="1100" v:groupContext="group">
+				<title>시트.1100</title>
+				<g id="shape1101-268" v:mID="1101" v:groupContext="shape" transform="translate(0.933536,0)">
+					<title>시트.1101</title>
+					<path d="M0.32 593.24 L3.59 594.55 a0.379688 0.382162 0 0 1 -0.0963229 0.727128 L0.32 594.02 a0.392257 0.394813
+								 0 0 1 -5.32907E-15 -0.775603 Z" class="st28"/>
+				</g>
+				<g id="shape1102-270" v:mID="1102" v:groupContext="shape" transform="translate(2.34812E-14,-1.35731)">
+					<title>시트.1102</title>
+					<path d="M0 592.37 L4.72 594.31 L4.72 595.28 L0 593.43 L0 592.37 Z" class="st29"/>
+				</g>
+				<g id="shape1103-272" v:mID="1103" v:groupContext="shape" transform="translate(2.34812E-14,-1.35731)">
+					<title>시트.1103</title>
+					<path d="M0 592.37 L4.72 594.31 L4.72 595.28" class="st20"/>
+				</g>
+				<g id="shape1104-275" v:mID="1104" v:groupContext="shape" transform="translate(2.34812E-14,-1.93901)">
+					<title>시트.1104</title>
+					<path d="M0 593.34 L4.72 595.28" class="st20"/>
+				</g>
+				<g id="shape1105-278" v:mID="1105" v:groupContext="shape" transform="translate(-2.39808E-14,-1.35731)">
+					<title>시트.1105</title>
+					<path d="M0 592.37 L0 593.43 L4.72 595.28" class="st10"/>
+				</g>
+			</g>
+			<g id="shape1106-281" v:mID="1106" v:groupContext="shape" transform="translate(-280.054,66.4115) rotate(-30)">
+				<title>시트.1106</title>
+				<ellipse cx="0.323022" cy="594.843" rx="0.323022" ry="0.432096" class="st30"/>
+			</g>
+			<g id="shape1107-285" v:mID="1107" v:groupContext="shape" transform="translate(11.7514,-14.3659)">
+				<title>시트.1107</title>
+				<path d="M0.29 591.04 L0.29 583.66 L0 583.37 A16.7388 16.6305 -90.48 0 0 6.84 587.44 L6.84 595.28 L6.84 594.93 A21.1451
+							 21.0082 91.46 0 1 0.29 591.04 Z" class="st31"/>
+			</g>
+		</g>
+		<g id="shape1108-293" v:mID="1108" v:groupContext="shape" transform="translate(334.488,-348.661)">
+			<title>시트.1108</title>
+			<desc>R1</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="11.3386" cy="588.189" width="22.68" height="14.1732"/>
+			<rect x="0" y="581.102" width="22.6772" height="14.1732" class="st32"/>
+			<text x="6.12" y="590.89" class="st33" v:langID="1042"><v:paragraph v:horizAlign="1"/><v:tabList/>R1</text>		</g>
+		<g id="shape1109-296" v:mID="1109" v:groupContext="shape" transform="translate(406.62,-348.661)">
+			<title>시트.1109</title>
+			<desc>R2</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="11.3386" cy="588.189" width="22.68" height="14.1732"/>
+			<rect x="0" y="581.102" width="22.6772" height="14.1732" class="st32"/>
+			<text x="6.12" y="590.89" class="st33" v:langID="1042"><v:paragraph v:horizAlign="1"/><v:tabList/>R2</text>		</g>
+		<g id="shape1110-299" v:mID="1110" v:groupContext="shape" transform="translate(258.661,-348.661)">
+			<title>시트.1110</title>
+			<desc>SW1</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="13.4646" cy="588.189" width="26.93" height="14.1732"/>
+			<rect x="0" y="581.102" width="26.9291" height="14.1732" class="st32"/>
+			<text x="4.25" y="590.89" class="st33" v:langID="1042"><v:paragraph v:horizAlign="1"/><v:tabList/>SW1</text>		</g>
+		<g id="shape1111-302" v:mID="1111" v:groupContext="shape" transform="translate(506.693,-348.661)">
+			<title>시트.1111</title>
+			<desc>SW2</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="14.5276" cy="588.189" width="29.06" height="14.1732"/>
+			<rect x="0" y="581.102" width="29.0551" height="14.1732" class="st32"/>
+			<text x="5.31" y="590.89" class="st33" v:langID="1042"><v:paragraph v:horizAlign="1"/><v:tabList/>SW2</text>		</g>
+		<g id="shape1112-305" v:mID="1112" v:groupContext="shape" transform="translate(483.054,-292.477)">
+			<title>시트.1112</title>
+			<desc>SW3</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="14.1732" cy="588.189" width="28.35" height="14.1732"/>
+			<rect x="0" y="581.102" width="28.3465" height="14.1732" class="st32"/>
+			<text x="4.96" y="590.89" class="st33" v:langID="1042"><v:paragraph v:horizAlign="1"/><v:tabList/>SW3</text>		</g>
+		<g id="shape1113-308" v:mID="1113" v:groupContext="shape" transform="translate(199.64,-350.079)">
+			<title>시트.1113</title>
+			<desc>Client</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="15.6918" cy="588.189" width="31.39" height="14.1732"/>
+			<rect x="0" y="581.102" width="31.3836" height="14.1732" class="st32"/>
+			<text x="4.06" y="590.89" class="st33" v:langID="1042"><v:paragraph v:horizAlign="1"/><v:tabList/>Client</text>		</g>
+		<g id="shape1114-311" v:mID="1114" v:groupContext="shape" transform="translate(556.654,-294.751)">
+			<title>시트.1114</title>
+			<desc>DNS</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="588.189" width="34.02" height="14.1732"/>
+			<rect x="0" y="581.102" width="34.0157" height="14.1732" class="st32"/>
+			<text x="7.89" y="590.89" class="st33" v:langID="1042"><v:paragraph v:horizAlign="1"/><v:tabList/>DNS</text>		</g>
+		<g id="shape1115-314" v:mID="1115" v:groupContext="shape" transform="translate(554.983,-348.661)">
+			<title>시트.1115</title>
+			<desc>xyz.com</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="20.4499" cy="588.189" width="40.9" height="14.1732"/>
+			<rect x="0" y="581.102" width="40.8999" height="14.1732" class="st32"/>
+			<text x="4.3" y="590.89" class="st33" v:langID="1042"><v:paragraph v:horizAlign="1"/><v:tabList/>xyz.com</text>		</g>
+		<g id="group1119-317" transform="translate(480.624,-385.512)" v:mID="1119" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="Scale" v:val="VT0(1):26"/>
+				<v:ud v:nameU="AntiScale" v:val="VT0(1):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+			</v:userDefs>
+			<title>상자 설명선.134</title>
+			<g id="shape1120-318" v:mID="1120" v:groupContext="shape" transform="translate(298.615,1110.23) rotate(149.891)">
+				<title>시트.1120</title>
+				<path d="M0 595.28 L59.33 595.28" class="st34"/>
+			</g>
+			<g id="shape1121-321" v:mID="1121" v:groupContext="shape" transform="translate(-58.2621,15.5906)">
+				<title>시트.1121</title>
+				<desc>s0/0 14.58.90.6/30 fa0/0 125.241.100.254/24</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="58.2621" cy="579.685" width="116.53" height="31.1811"/>
+				<rect x="0" y="564.094" width="116.524" height="31.1811" class="st35"/>
+				<text x="4" y="576.99" class="st33" v:langID="1042"><v:paragraph/><v:tabList/>s0/0 14.58.90.6/30<v:newlineChar/><tspan
+							x="4" dy="1.2em" class="st36">fa0/0 125.241.100.254/24</tspan></text>			</g>
+		</g>
+		<g id="group1122-325" transform="translate(617.953,-385.512)" v:mID="1122" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="Scale" v:val="VT0(1):26"/>
+				<v:ud v:nameU="AntiScale" v:val="VT0(1):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+			</v:userDefs>
+			<title>상자 설명선.140</title>
+			<g id="shape1123-326" v:mID="1123" v:groupContext="shape" transform="translate(280.13,1120.52) rotate(151.928)">
+				<title>시트.1123</title>
+				<path d="M0 595.28 L48.19 595.28" class="st34"/>
+			</g>
+			<g id="shape1124-329" v:mID="1124" v:groupContext="shape" transform="translate(-62.3622,15.5906)">
+				<title>시트.1124</title>
+				<desc>enp0s3 125.2541.100.10/24 enp0s8 NAT</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="62.3622" cy="579.685" width="124.73" height="31.1811"/>
+				<rect x="0" y="564.094" width="124.724" height="31.1811" class="st35"/>
+				<text x="4" y="576.99" class="st33" v:langID="1042"><v:paragraph/><v:tabList/>enp0s3 125.2541.100.10/24<v:newlineChar/><v:paragraph/><tspan
+							x="4" dy="1.2em" class="st36">enp0s8 NAT</tspan></text>			</g>
+		</g>
+		<g id="shape1125-333" v:mID="1125" v:groupContext="shape" transform="translate(300.472,-333.018)">
+			<title>시트.1125</title>
+			<desc>fa0/0</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.7481" cy="588.189" width="35.5" height="14.1732"/>
+			<rect x="0" y="581.102" width="35.4962" height="14.1732" class="st32"/>
+			<text x="7.25" y="590.89" class="st33" v:langID="1042"><v:paragraph v:horizAlign="1"/><v:tabList/>fa0/0</text>		</g>
+		<g id="shape1126-336" v:mID="1126" v:groupContext="shape" transform="translate(433.283,-264.131)">
+			<title>시트.1126</title>
+			<desc>fa0/0</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.7481" cy="588.189" width="35.5" height="14.1732"/>
+			<rect x="0" y="581.102" width="35.4962" height="14.1732" class="st32"/>
+			<text x="7.25" y="590.89" class="st33" v:langID="1042"><v:paragraph v:horizAlign="1"/><v:tabList/>fa0/0</text>		</g>
+		<g id="shape1127-339" v:mID="1127" v:groupContext="shape" transform="translate(429.386,-333.071)">
+			<title>시트.1127</title>
+			<desc>fa0/0</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.7481" cy="588.189" width="35.5" height="14.1732"/>
+			<rect x="0" y="581.102" width="35.4962" height="14.1732" class="st32"/>
+			<text x="7.25" y="590.89" class="st33" v:langID="1042"><v:paragraph v:horizAlign="1"/><v:tabList/>fa0/0</text>		</g>
+		<g id="shape1128-342" v:mID="1128" v:groupContext="shape" transform="translate(376.268,-333.58)">
+			<title>시트.1128</title>
+			<desc>s0/0</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.7481" cy="588.189" width="35.5" height="14.1732"/>
+			<rect x="0" y="581.102" width="35.4962" height="14.1732" class="st32"/>
+			<text x="9.06" y="590.89" class="st33" v:langID="1042"><v:paragraph v:horizAlign="1"/><v:tabList/>s0/0</text>		</g>
+		<g id="shape1129-345" v:mID="1129" v:groupContext="shape" transform="translate(351.496,-333.071)">
+			<title>시트.1129</title>
+			<desc>s0/0</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.7481" cy="588.189" width="35.5" height="14.1732"/>
+			<rect x="0" y="581.102" width="35.4962" height="14.1732" class="st32"/>
+			<text x="9.06" y="590.89" class="st33" v:langID="1042"><v:paragraph v:horizAlign="1"/><v:tabList/>s0/0</text>		</g>
+		<g id="group1130-348" transform="translate(583.38,-230.576)" v:mID="1130" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="Scale" v:val="VT0(1):26"/>
+				<v:ud v:nameU="AntiScale" v:val="VT0(1):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+			</v:userDefs>
+			<title>상자 설명선.24</title>
+			<g id="shape1131-349" v:mID="1131" v:groupContext="shape" transform="translate(-553.459,814.448) rotate(-111.604)">
+				<title>시트.1131</title>
+				<path d="M0 595.28 L26.4 595.28" class="st34"/>
+			</g>
+			<g id="shape1132-352" v:mID="1132" v:groupContext="shape" transform="translate(-46.5692,13.2035)">
+				<title>시트.1132</title>
+				<desc>enp0s3 8.8.8.88/24 enp0s8 NAT</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="46.5692" cy="582.072" width="93.14" height="26.407"/>
+				<rect x="0" y="568.869" width="93.1384" height="26.407" class="st35"/>
+				<text x="4" y="579.37" class="st33" v:langID="1042"><v:paragraph/><v:tabList/>enp0s3 8.8.8.88/24<v:newlineChar/><tspan
+							x="4" dy="1.2em" class="st36">enp0s8 NAT</tspan></text>			</g>
+		</g>
+		<g id="group1133-356" transform="translate(228.037,-383.018)" v:mID="1133" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="Scale" v:val="VT0(1):26"/>
+				<v:ud v:nameU="AntiScale" v:val="VT0(1):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+			</v:userDefs>
+			<title>상자 설명선.27</title>
+			<g id="shape1134-357" v:mID="1134" v:groupContext="shape" transform="translate(492.93,929.001) rotate(124.099)">
+				<title>시트.1134</title>
+				<path d="M0 595.28 L22.66 595.28" class="st34"/>
+			</g>
+			<g id="shape1135-360" v:mID="1135" v:groupContext="shape" transform="translate(-52.2891,13.8321)">
+				<title>시트.1135</title>
+				<desc>enp0s3 192.168.1.10/24 enp0s8 NAT</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="52.2891" cy="581.444" width="104.58" height="27.6641"/>
+				<rect x="0" y="567.611" width="104.578" height="27.6641" class="st35"/>
+				<text x="4" y="578.74" class="st33" v:langID="1042"><v:paragraph/><v:tabList/>enp0s3 192.168.1.10/24<v:newlineChar/><v:paragraph/><tspan
+							x="4" dy="1.2em" class="st36">enp0s8 NAT</tspan></text>			</g>
+		</g>
+		<g id="shape1145-364" v:mID="1145" v:groupContext="shape" v:layerMember="0" transform="translate(345.827,-335.405)">
+			<title>동적 연결선.1145</title>
+			<path d="M0 595.28 L74.76 652.18" class="st1"/>
+		</g>
+		<g id="shape1147-367" v:mID="1147" v:groupContext="shape" transform="translate(339.417,-307.559)">
+			<title>시트.1147</title>
+			<desc>s0/1</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.7481" cy="588.189" width="35.5" height="14.1732"/>
+			<rect x="0" y="581.102" width="35.4962" height="14.1732" class="st32"/>
+			<text x="9.06" y="590.89" class="st33" v:langID="1042"><v:paragraph v:horizAlign="1"/><v:tabList/>s0/1</text>		</g>
+		<g id="shape1148-370" v:mID="1148" v:groupContext="shape" transform="translate(391.181,-293.386)">
+			<title>시트.1148</title>
+			<desc>s0/0</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.7481" cy="588.189" width="35.5" height="14.1732"/>
+			<rect x="0" y="581.102" width="35.4962" height="14.1732" class="st32"/>
+			<text x="9.06" y="590.89" class="st33" v:langID="1042"><v:paragraph v:horizAlign="1"/><v:tabList/>s0/0</text>		</g>
+		<g id="group1178-373" transform="translate(468.78,-229.383)" v:mID="1178" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="Scale" v:val="VT0(1):26"/>
+				<v:ud v:nameU="AntiScale" v:val="VT0(1):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+			</v:userDefs>
+			<title>상자 설명선.1178</title>
+			<g id="shape1179-374" v:mID="1179" v:groupContext="shape" transform="translate(-351.222,1075.9) rotate(-143.842)">
+				<title>시트.1179</title>
+				<path d="M0 595.28 L45.64 595.28" class="st34"/>
+			</g>
+			<g id="shape1180-377" v:mID="1180" v:groupContext="shape" transform="translate(-51.0236,12.7559)">
+				<title>시트.1180</title>
+				<desc>s0/0 14.58.90.10/30 fa0/0 8.8.8.254/24</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="51.0236" cy="582.52" width="102.05" height="25.5118"/>
+				<rect x="0" y="569.764" width="102.047" height="25.5118" class="st35"/>
+				<text x="4" y="579.82" class="st33" v:langID="1042"><v:paragraph/><v:tabList/>s0/0 14.58.90.10/30<v:newlineChar/><tspan
+							x="4" dy="1.2em" class="st36">fa0/0 8.8.8.254/24</tspan></text>			</g>
+		</g>
+		<g id="shape1183-381" v:mID="1183" v:groupContext="shape" transform="translate(409.252,-252.283)">
+			<title>시트.1183</title>
+			<desc>R3</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="11.3386" cy="588.189" width="22.68" height="14.1732"/>
+			<rect x="0" y="581.102" width="22.6772" height="14.1732" class="st32"/>
+			<text x="6.12" y="590.89" class="st33" v:langID="1042"><v:paragraph v:horizAlign="1"/><v:tabList/>R3</text>		</g>
+		<g id="group1004-384" transform="translate(332.362,-321.941)" v:mID="1004" v:groupContext="group">
+			<v:custProps>
+				<v:cp v:nameU="ShapeClass" v:lbl="ShapeClass" v:type="0" v:invis="true" v:ask="false" v:langID="1042"
+						v:val="VT4(장비)"/>
+				<v:cp v:nameU="ShapeType" v:lbl="ShapeType" v:type="0" v:invis="true" v:ask="false" v:langID="1042" v:val="VT4(장치)"/>
+				<v:cp v:nameU="SubShapeType" v:lbl="SubShapeType" v:type="0" v:invis="true" v:ask="false" v:langID="1042"
+						v:val="VT4(스위치)"/>
+				<v:cp v:nameU="Manufacturer" v:lbl="제조업체" v:type="0" v:sortKey="Equipment" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="ProductNumber" v:lbl="제품 번호" v:type="0" v:sortKey="Equipment" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="PartNumber" v:lbl="부품 번호" v:type="0" v:sortKey="Equipment" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="ProductDescription" v:lbl="제품 설명" v:type="0" v:sortKey="Equipment" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="AssetNumber" v:lbl="자산 번호" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="SerialNumber" v:lbl="일련 번호" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="Location" v:lbl="위치" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false" v:langID="1042"/>
+				<v:cp v:nameU="Building" v:lbl="건물" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false" v:langID="1042"/>
+				<v:cp v:nameU="Room" v:lbl="방" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false" v:langID="1042"/>
+				<v:cp v:nameU="NetworkName" v:lbl="네트워크 이름" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="IPAddress" v:lbl="IP 주소" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="SubnetMask" v:lbl="서브넷 마스크" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="AdminInterface" v:lbl="관리 인터페이스" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="NumberofPorts" v:lbl="포트 수" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="MACAddress" v:lbl="MAC 주소" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="CommunityString" v:lbl="커뮤니티 문자열" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="NetworkDescription" v:lbl="네트워크 설명" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="HasText" v:val="VT0(0):5"/>
+				<v:ud v:nameU="ShapeClass" v:val="VT0(5):26"/>
+				<v:ud v:nameU="ShapeType" v:val="VT0(8):26"/>
+				<v:ud v:nameU="SubShapeType" v:val="VT0(66):26"/>
+				<v:ud v:nameU="visLegendShape" v:val="VT0(2):26"/>
+				<v:ud v:nameU="SolSH" v:val="VT15({BF0433D9-CD73-4EB5-8390-8653BE590246}):41"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+			</v:userDefs>
+			<title>라우터.1004</title>
+			<g id="shape1005-385" v:mID="1005" v:groupContext="shape">
+				<title>시트.1005</title>
+				<path d="M26.93 576.43 A13.4646 8.07874 -180 1 0 0 576.43 L0 587.2 A13.4646 8.07874 -180 1 0 26.93 587.2 L26.93 576.43
+							 Z" class="st2"/>
+			</g>
+			<g id="shape1006-387" v:mID="1006" v:groupContext="shape" transform="translate(0,-10.7717)">
+				<title>시트.1006</title>
+				<ellipse cx="13.4646" cy="587.197" rx="13.4646" ry="8.07874" class="st3"/>
+			</g>
+			<g id="shape1007-390" v:mID="1007" v:groupContext="shape" transform="translate(22.6765,-18.8504) scale(-1,1)">
+				<title>시트.1007</title>
+				<path d="M0 593.73 L0 589.96 L6.53 589.96 L3.85 591.51 L9.21 594.6 L8.05 595.28 L2.68 592.18 L0 593.73 Z"
+						class="st4"/>
+			</g>
+			<g id="shape1008-392" v:mID="1008" v:groupContext="shape" transform="translate(3.66962,-18.8504)">
+				<title>시트.1008</title>
+				<path d="M9.79 591.51 L9.21 594.94 L3.26 595.28 L5.95 593.73 L0 590.29 L1.17 589.62 L7.11 593.05 L9.79 591.51 Z"
+						class="st4"/>
+			</g>
+			<g id="shape1009-394" v:mID="1009" v:groupContext="shape" transform="translate(13.4646,-13.1953)">
+				<title>시트.1009</title>
+				<path d="M0 593.39 L0.58 589.96 L6.53 589.62 L3.85 591.17 L9.79 594.6 L8.63 595.28 L2.68 591.84 L0 593.39 Z"
+						class="st4"/>
+			</g>
+			<g id="shape1010-396" v:mID="1010" v:groupContext="shape" transform="translate(4.25265,1171.7) scale(1,-1)">
+				<title>시트.1010</title>
+				<path d="M0 593.73 L0 589.96 L6.53 589.96 L3.85 591.51 L9.21 594.6 L8.05 595.28 L2.68 592.18 L0 593.73 Z"
+						class="st4"/>
+			</g>
+			<g id="shape1011-398" v:mID="1011" v:groupContext="shape">
+				<title>시트.1011</title>
+				<path d="M0 576.43 L0 587.2 A13.4646 8.07874 -180 1 0 26.93 587.2 L26.93 576.43 A13.4646 8.07874 0 1 1 -0 576.43 Z"
+						class="st5"/>
+			</g>
+			<g id="shape1012-401" v:mID="1012" v:groupContext="shape">
+				<title>시트.1012</title>
+				<path d="M26.93 576.43 A13.4646 8.07874 -180 1 0 0 576.43 L0 587.2 A13.4646 8.07874 -180 1 0 26.93 587.2 L26.93 576.43"
+						class="st6"/>
+			</g>
+		</g>
+		<g id="group1136-404" transform="translate(407.126,-265.039)" v:mID="1136" v:groupContext="group">
+			<v:custProps>
+				<v:cp v:nameU="ShapeClass" v:lbl="ShapeClass" v:type="0" v:invis="true" v:ask="false" v:langID="1042"
+						v:val="VT4(장비)"/>
+				<v:cp v:nameU="ShapeType" v:lbl="ShapeType" v:type="0" v:invis="true" v:ask="false" v:langID="1042" v:val="VT4(장치)"/>
+				<v:cp v:nameU="SubShapeType" v:lbl="SubShapeType" v:type="0" v:invis="true" v:ask="false" v:langID="1042"
+						v:val="VT4(스위치)"/>
+				<v:cp v:nameU="Manufacturer" v:lbl="제조업체" v:type="0" v:sortKey="Equipment" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="ProductNumber" v:lbl="제품 번호" v:type="0" v:sortKey="Equipment" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="PartNumber" v:lbl="부품 번호" v:type="0" v:sortKey="Equipment" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="ProductDescription" v:lbl="제품 설명" v:type="0" v:sortKey="Equipment" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="AssetNumber" v:lbl="자산 번호" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="SerialNumber" v:lbl="일련 번호" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="Location" v:lbl="위치" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false" v:langID="1042"/>
+				<v:cp v:nameU="Building" v:lbl="건물" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false" v:langID="1042"/>
+				<v:cp v:nameU="Room" v:lbl="방" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false" v:langID="1042"/>
+				<v:cp v:nameU="NetworkName" v:lbl="네트워크 이름" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="IPAddress" v:lbl="IP 주소" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="SubnetMask" v:lbl="서브넷 마스크" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="AdminInterface" v:lbl="관리 인터페이스" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="NumberofPorts" v:lbl="포트 수" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="MACAddress" v:lbl="MAC 주소" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="CommunityString" v:lbl="커뮤니티 문자열" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="NetworkDescription" v:lbl="네트워크 설명" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="HasText" v:val="VT0(0):5"/>
+				<v:ud v:nameU="ShapeClass" v:val="VT0(5):26"/>
+				<v:ud v:nameU="ShapeType" v:val="VT0(8):26"/>
+				<v:ud v:nameU="SubShapeType" v:val="VT0(66):26"/>
+				<v:ud v:nameU="visLegendShape" v:val="VT0(2):26"/>
+				<v:ud v:nameU="SolSH" v:val="VT15({BF0433D9-CD73-4EB5-8390-8653BE590246}):41"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+			</v:userDefs>
+			<title>라우터.1136</title>
+			<g id="shape1137-405" v:mID="1137" v:groupContext="shape">
+				<title>시트.1137</title>
+				<path d="M26.93 576.43 A13.4646 8.07874 -180 1 0 0 576.43 L0 587.2 A13.4646 8.07874 -180 1 0 26.93 587.2 L26.93 576.43
+							 Z" class="st2"/>
+			</g>
+			<g id="shape1138-407" v:mID="1138" v:groupContext="shape" transform="translate(0,-10.7717)">
+				<title>시트.1138</title>
+				<ellipse cx="13.4646" cy="587.197" rx="13.4646" ry="8.07874" class="st3"/>
+			</g>
+			<g id="shape1139-410" v:mID="1139" v:groupContext="shape" transform="translate(22.6765,-18.8504) scale(-1,1)">
+				<title>시트.1139</title>
+				<path d="M0 593.73 L0 589.96 L6.53 589.96 L3.85 591.51 L9.21 594.6 L8.05 595.28 L2.68 592.18 L0 593.73 Z"
+						class="st4"/>
+			</g>
+			<g id="shape1140-412" v:mID="1140" v:groupContext="shape" transform="translate(3.66962,-18.8504)">
+				<title>시트.1140</title>
+				<path d="M9.79 591.51 L9.21 594.94 L3.26 595.28 L5.95 593.73 L0 590.29 L1.17 589.62 L7.11 593.05 L9.79 591.51 Z"
+						class="st4"/>
+			</g>
+			<g id="shape1141-414" v:mID="1141" v:groupContext="shape" transform="translate(13.4646,-13.1953)">
+				<title>시트.1141</title>
+				<path d="M0 593.39 L0.58 589.96 L6.53 589.62 L3.85 591.17 L9.79 594.6 L8.63 595.28 L2.68 591.84 L0 593.39 Z"
+						class="st4"/>
+			</g>
+			<g id="shape1142-416" v:mID="1142" v:groupContext="shape" transform="translate(4.25265,1171.7) scale(1,-1)">
+				<title>시트.1142</title>
+				<path d="M0 593.73 L0 589.96 L6.53 589.96 L3.85 591.51 L9.21 594.6 L8.05 595.28 L2.68 592.18 L0 593.73 Z"
+						class="st4"/>
+			</g>
+			<g id="shape1143-418" v:mID="1143" v:groupContext="shape">
+				<title>시트.1143</title>
+				<path d="M0 576.43 L0 587.2 A13.4646 8.07874 -180 1 0 26.93 587.2 L26.93 576.43 A13.4646 8.07874 0 1 1 -0 576.43 Z"
+						class="st5"/>
+			</g>
+			<g id="shape1144-421" v:mID="1144" v:groupContext="shape">
+				<title>시트.1144</title>
+				<path d="M26.93 576.43 A13.4646 8.07874 -180 1 0 0 576.43 L0 587.2 A13.4646 8.07874 -180 1 0 26.93 587.2 L26.93 576.43"
+						class="st6"/>
+			</g>
+		</g>
+		<g id="group1022-424" transform="translate(266.457,-323.097)" v:mID="1022" v:groupContext="group">
+			<v:custProps>
+				<v:cp v:nameU="ShapeClass" v:lbl="ShapeClass" v:type="0" v:invis="true" v:ask="false" v:langID="1042"
+						v:val="VT4(장비)"/>
+				<v:cp v:nameU="ShapeType" v:lbl="ShapeType" v:type="0" v:invis="true" v:ask="false" v:langID="1042" v:val="VT4(장치)"/>
+				<v:cp v:nameU="SubShapeType" v:lbl="SubShapeType" v:type="0" v:invis="true" v:ask="false" v:langID="1042"
+						v:val="VT4(스위치)"/>
+				<v:cp v:nameU="Manufacturer" v:lbl="제조업체" v:type="0" v:sortKey="Equipment" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="ProductNumber" v:lbl="제품 번호" v:type="0" v:sortKey="Equipment" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="PartNumber" v:lbl="부품 번호" v:type="0" v:sortKey="Equipment" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="ProductDescription" v:lbl="제품 설명" v:type="0" v:sortKey="Equipment" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="AssetNumber" v:lbl="자산 번호" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="SerialNumber" v:lbl="일련 번호" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="Location" v:lbl="위치" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false" v:langID="1042"/>
+				<v:cp v:nameU="Building" v:lbl="건물" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false" v:langID="1042"/>
+				<v:cp v:nameU="Room" v:lbl="방" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false" v:langID="1042"/>
+				<v:cp v:nameU="NetworkName" v:lbl="네트워크 이름" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="IPAddress" v:lbl="IP 주소" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="SubnetMask" v:lbl="서브넷 마스크" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="AdminInterface" v:lbl="관리 인터페이스" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="NumberofPorts" v:lbl="포트 수" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="MACAddress" v:lbl="MAC 주소" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="CommunityString" v:lbl="커뮤니티 문자열" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="NetworkDescription" v:lbl="네트워크 설명" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="HasText" v:val="VT0(0):5"/>
+				<v:ud v:nameU="ShapeClass" v:val="VT0(5):26"/>
+				<v:ud v:nameU="ShapeType" v:val="VT0(8):26"/>
+				<v:ud v:nameU="SubShapeType" v:val="VT0(66):26"/>
+				<v:ud v:nameU="visLegendShape" v:val="VT0(2):26"/>
+				<v:ud v:nameU="SolSH" v:val="VT15({BF0433D9-CD73-4EB5-8390-8653BE590246}):41"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+			</v:userDefs>
+			<title>작업 그룹 스위치</title>
+			<g id="shape1023-425" v:mID="1023" v:groupContext="shape">
+				<title>시트.1023</title>
+				<path d="M14.17 595.28 L28.35 587.15 L28.35 578.78 L14.17 570.66 L0 578.78 L0 587.15 L14.17 595.28 Z" class="st2"/>
+			</g>
+			<g id="shape1024-427" v:mID="1024" v:groupContext="shape" transform="translate(0,-8.37388)">
+				<title>시트.1024</title>
+				<path d="M14.17 595.28 L28.35 587.15 L14.17 579.03 L0 587.15 L14.17 595.28 Z" class="st3"/>
+			</g>
+			<g id="shape1025-430" v:mID="1025" v:groupContext="shape" transform="translate(14.1732,-1.13687E-13)">
+				<title>시트.1025</title>
+				<path d="M0 595.28 L14.17 587.15 L14.17 578.78 L0 586.9 L0 595.28 Z" class="st7"/>
+			</g>
+			<g id="shape1026-433" v:mID="1026" v:groupContext="shape">
+				<title>시트.1026</title>
+				<path d="M0 587.15 L14.17 595.28 L14.17 586.9 L0 578.78 L0 587.15 Z" class="st8"/>
+			</g>
+			<g id="shape1027-436" v:mID="1027" v:groupContext="shape">
+				<title>시트.1027</title>
+				<path d="M0 578.78 L0 587.15 L14.17 595.28 L28.35 587.15 L28.35 578.78 L14.17 570.66 L0 578.78" class="st6"/>
+			</g>
+			<g id="shape1028-439" v:mID="1028" v:groupContext="shape" transform="translate(15.0829,-13.5509)">
+				<title>시트.1028</title>
+				<path d="M6.87 592.65 L6.46 595.04 L2.29 595.28 L4.17 594.2 L0 591.81 L0.82 591.34 L4.99 593.73 L6.87 592.65 Z"
+						class="st4"/>
+			</g>
+			<g id="shape1029-441" v:mID="1029" v:groupContext="shape" transform="translate(18.8925,1167.89) rotate(180)">
+				<title>시트.1029</title>
+				<path d="M6.87 592.65 L6.46 595.04 L2.29 595.28 L4.17 594.2 L0 591.81 L0.82 591.34 L4.99 593.73 L6.87 592.65 Z"
+						class="st4"/>
+			</g>
+			<g id="shape1030-443" v:mID="1030" v:groupContext="shape" transform="translate(9.47281,-10.3249)">
+				<title>시트.1030</title>
+				<path d="M6.87 592.65 L6.46 595.04 L2.29 595.28 L4.17 594.2 L0 591.81 L0.82 591.34 L4.99 593.73 L6.87 592.65 Z"
+						class="st4"/>
+			</g>
+			<g id="shape1031-445" v:mID="1031" v:groupContext="shape" transform="translate(13.2044,1171.15) rotate(180)">
+				<title>시트.1031</title>
+				<path d="M6.87 592.65 L6.46 595.04 L2.29 595.28 L4.17 594.2 L0 591.81 L0.82 591.34 L4.99 593.73 L6.87 592.65 Z"
+						class="st4"/>
+			</g>
+		</g>
+		<g id="group1189-447" transform="translate(332.101,-266.196)" v:mID="1189" v:groupContext="group">
+			<v:custProps>
+				<v:cp v:nameU="ShapeClass" v:lbl="ShapeClass" v:type="0" v:invis="true" v:ask="false" v:langID="1042"
+						v:val="VT4(장비)"/>
+				<v:cp v:nameU="ShapeType" v:lbl="ShapeType" v:type="0" v:invis="true" v:ask="false" v:langID="1042" v:val="VT4(장치)"/>
+				<v:cp v:nameU="SubShapeType" v:lbl="SubShapeType" v:type="0" v:invis="true" v:ask="false" v:langID="1042"
+						v:val="VT4(스위치)"/>
+				<v:cp v:nameU="Manufacturer" v:lbl="제조업체" v:type="0" v:sortKey="Equipment" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="ProductNumber" v:lbl="제품 번호" v:type="0" v:sortKey="Equipment" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="PartNumber" v:lbl="부품 번호" v:type="0" v:sortKey="Equipment" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="ProductDescription" v:lbl="제품 설명" v:type="0" v:sortKey="Equipment" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="AssetNumber" v:lbl="자산 번호" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="SerialNumber" v:lbl="일련 번호" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="Location" v:lbl="위치" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false" v:langID="1042"/>
+				<v:cp v:nameU="Building" v:lbl="건물" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false" v:langID="1042"/>
+				<v:cp v:nameU="Room" v:lbl="방" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false" v:langID="1042"/>
+				<v:cp v:nameU="NetworkName" v:lbl="네트워크 이름" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="IPAddress" v:lbl="IP 주소" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="SubnetMask" v:lbl="서브넷 마스크" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="AdminInterface" v:lbl="관리 인터페이스" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="NumberofPorts" v:lbl="포트 수" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="MACAddress" v:lbl="MAC 주소" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="CommunityString" v:lbl="커뮤니티 문자열" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="NetworkDescription" v:lbl="네트워크 설명" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="HasText" v:val="VT0(0):5"/>
+				<v:ud v:nameU="ShapeClass" v:val="VT0(5):26"/>
+				<v:ud v:nameU="ShapeType" v:val="VT0(8):26"/>
+				<v:ud v:nameU="SubShapeType" v:val="VT0(66):26"/>
+				<v:ud v:nameU="visLegendShape" v:val="VT0(2):26"/>
+				<v:ud v:nameU="SolSH" v:val="VT15({BF0433D9-CD73-4EB5-8390-8653BE590246}):41"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+			</v:userDefs>
+			<title>작업 그룹 스위치.1189</title>
+			<g id="shape1190-448" v:mID="1190" v:groupContext="shape">
+				<title>시트.1190</title>
+				<path d="M14.17 595.28 L28.35 587.15 L28.35 578.78 L14.17 570.66 L0 578.78 L0 587.15 L14.17 595.28 Z" class="st2"/>
+			</g>
+			<g id="shape1191-450" v:mID="1191" v:groupContext="shape" transform="translate(0,-8.37388)">
+				<title>시트.1191</title>
+				<path d="M14.17 595.28 L28.35 587.15 L14.17 579.03 L0 587.15 L14.17 595.28 Z" class="st3"/>
+			</g>
+			<g id="shape1192-453" v:mID="1192" v:groupContext="shape" transform="translate(14.1732,-1.13687E-13)">
+				<title>시트.1192</title>
+				<path d="M0 595.28 L14.17 587.15 L14.17 578.78 L0 586.9 L0 595.28 Z" class="st7"/>
+			</g>
+			<g id="shape1193-456" v:mID="1193" v:groupContext="shape">
+				<title>시트.1193</title>
+				<path d="M0 587.15 L14.17 595.28 L14.17 586.9 L0 578.78 L0 587.15 Z" class="st8"/>
+			</g>
+			<g id="shape1194-459" v:mID="1194" v:groupContext="shape">
+				<title>시트.1194</title>
+				<path d="M0 578.78 L0 587.15 L14.17 595.28 L28.35 587.15 L28.35 578.78 L14.17 570.66 L0 578.78" class="st6"/>
+			</g>
+			<g id="shape1195-462" v:mID="1195" v:groupContext="shape" transform="translate(15.0829,-13.5509)">
+				<title>시트.1195</title>
+				<path d="M6.87 592.65 L6.46 595.04 L2.29 595.28 L4.17 594.2 L0 591.81 L0.82 591.34 L4.99 593.73 L6.87 592.65 Z"
+						class="st4"/>
+			</g>
+			<g id="shape1196-464" v:mID="1196" v:groupContext="shape" transform="translate(18.8925,1167.89) rotate(180)">
+				<title>시트.1196</title>
+				<path d="M6.87 592.65 L6.46 595.04 L2.29 595.28 L4.17 594.2 L0 591.81 L0.82 591.34 L4.99 593.73 L6.87 592.65 Z"
+						class="st4"/>
+			</g>
+			<g id="shape1197-466" v:mID="1197" v:groupContext="shape" transform="translate(9.47281,-10.3249)">
+				<title>시트.1197</title>
+				<path d="M6.87 592.65 L6.46 595.04 L2.29 595.28 L4.17 594.2 L0 591.81 L0.82 591.34 L4.99 593.73 L6.87 592.65 Z"
+						class="st4"/>
+			</g>
+			<g id="shape1198-468" v:mID="1198" v:groupContext="shape" transform="translate(13.2044,1171.15) rotate(180)">
+				<title>시트.1198</title>
+				<path d="M6.87 592.65 L6.46 595.04 L2.29 595.28 L4.17 594.2 L0 591.81 L0.82 591.34 L4.99 593.73 L6.87 592.65 Z"
+						class="st4"/>
+			</g>
+		</g>
+		<g id="group1200-470" transform="translate(272.126,-262.756)" v:mID="1200" v:groupContext="group">
+			<v:custProps>
+				<v:cp v:nameU="Manufacturer" v:lbl="제조업체" v:type="0" v:sortKey="Equipment" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="ProductNumber" v:lbl="제품 번호" v:type="0" v:sortKey="Equipment" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="PartNumber" v:lbl="부품 번호" v:type="0" v:sortKey="Equipment" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="ProductDescription" v:lbl="제품 설명" v:type="0" v:sortKey="Equipment" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="AssetNumber" v:lbl="자산 번호" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="SerialNumber" v:lbl="일련 번호" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="Location" v:lbl="위치" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false" v:langID="1042"/>
+				<v:cp v:nameU="Building" v:lbl="건물" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false" v:langID="1042"/>
+				<v:cp v:nameU="Room" v:lbl="방" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false" v:langID="1042"/>
+				<v:cp v:nameU="Department" v:lbl="부서" v:type="0" v:invis="false" v:ask="false" v:langID="1042"/>
+				<v:cp v:nameU="NetworkName" v:lbl="네트워크 이름" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="IPAddress" v:lbl="IP 주소" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="SubnetMask" v:lbl="서브넷 마스크" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="AdminInterface" v:lbl="관리 인터페이스" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="NumberofPorts" v:lbl="포트 수" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="CommunityString" v:lbl="커뮤니티 문자열" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="NetworkDescription" v:lbl="네트워크 설명" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="CPU" v:lbl="CPU" v:type="0" v:sortKey="Workstation" v:invis="false" v:ask="false" v:langID="1042"/>
+				<v:cp v:nameU="Memory" v:lbl="메모리" v:type="0" v:sortKey="Workstation" v:invis="false" v:ask="false" v:langID="1042"/>
+				<v:cp v:nameU="OperatingSystem" v:lbl="운영 체제" v:type="0" v:sortKey="Workstation" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="BelongsTo" v:lbl="소속" v:type="0" v:invis="true" v:ask="false" v:langID="1042"/>
+				<v:cp v:nameU="ShapeClass" v:lbl="ShapeClass" v:type="0" v:invis="true" v:ask="false" v:langID="1042"
+						v:val="VT4(장비)"/>
+				<v:cp v:nameU="ShapeType" v:lbl="ShapeType" v:type="0" v:invis="true" v:ask="false" v:langID="1042" v:val="VT4(서버)"/>
+				<v:cp v:nameU="MACAddress" v:lbl="MAC 주소" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="HardDriveSize" v:lbl="하드 드라이브 용량" v:type="0" v:sortKey="Workstation" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="HasText" v:val="VT0(0):5"/>
+				<v:ud v:nameU="ShapeClass" v:val="VT0(5):26"/>
+				<v:ud v:nameU="ShapeType" v:val="VT0(24):26"/>
+				<v:ud v:nameU="SolSH" v:val="VT15({BF0433D9-CD73-4EB5-8390-8653BE590246}):41"/>
+				<v:ud v:nameU="visLegendShape" v:val="VT0(2):26"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+			</v:userDefs>
+			<title>서버.1200</title>
+			<g id="shape1201-471" v:mID="1201" v:groupContext="shape">
+				<title>시트.1201</title>
+				<path d="M22.68 568.45 L13.96 563.78 L0 571.38 L0.01 590.91 A14.6831 13.712 -180 0 0 8.61 595.28 L22.68 587.67 L22.68
+							 568.45 ZM3.87 574.42 A15.1532 14.1511 -180 0 0 8.61 576.11 A14.984 13.993 0 0 1 3.87 574.42 Z"
+						class="st2"/>
+			</g>
+			<g id="shape1202-473" v:mID="1202" v:groupContext="shape" transform="translate(0,-19.1687)">
+				<title>시트.1202</title>
+				<path d="M8.61 595.28 L22.68 587.62 L13.96 582.95 L0 590.55 A15.1532 14.1511 -180 0 0 8.61 595.28 L8.61 595.28 Z"
+						class="st9"/>
+				<path d="M8.61 595.28 L22.68 587.62 L13.96 582.95 L0 590.55 A15.1532 14.1511 -180 0 0 8.61 595.28" class="st10"/>
+			</g>
+			<g id="shape1203-477" v:mID="1203" v:groupContext="shape" transform="translate(0.00515277,-1.13687E-13)">
+				<title>시트.1203</title>
+				<path d="M8.61 576.11 A14.984 13.993 0 0 1 0 571.36 L0 590.91 A14.6831 13.712 -180 0 0 8.61 595.28 L8.6 576.11 L8.61
+							 576.11 Z" class="st11"/>
+				<path d="M8.61 576.11 A14.984 13.993 0 0 1 0 571.36 L0 590.91 A14.6831 13.712 -180 0 0 8.61 595.28 L8.6 576.11"
+						class="st12"/>
+			</g>
+			<g id="shape1204-481" v:mID="1204" v:groupContext="shape" transform="translate(8.60569,-0.0216648)">
+				<title>시트.1204</title>
+				<path d="M0 576.13 L0 595.28 L14.07 587.69 L14.07 568.47 L0 576.13 Z" class="st13"/>
+			</g>
+			<g id="shape1205-484" v:mID="1205" v:groupContext="shape" transform="translate(0,-0.000694282)">
+				<title>시트.1205</title>
+				<path d="M22.68 568.45 L13.96 563.78 L0 571.38 L0.01 590.91 A14.6831 13.712 -180 0 0 8.61 595.28 L22.68 587.67 L22.68
+							 568.45" class="st6"/>
+			</g>
+			<g id="shape1206-487" v:mID="1206" v:groupContext="shape" transform="translate(-199.948,25.7745) rotate(-20)">
+				<title>시트.1206</title>
+				<ellipse cx="0.658709" cy="594.379" rx="0.658709" ry="0.896958" class="st14"/>
+			</g>
+			<g id="shape1207-490" v:mID="1207" v:groupContext="shape" transform="translate(1.39552,-2.77005)">
+				<title>시트.1207</title>
+				<path d="M0 589.95 A16.8091 15.3523 -96.44 0 0 5.81 592.94" class="st15"/>
+				<path d="M0 591.12 A16.8091 15.3523 -96.44 0 0 5.81 594.11" class="st15"/>
+				<path d="M0 592.29 A16.8091 15.3523 -96.44 0 0 5.81 595.28" class="st15"/>
+			</g>
+			<g id="group1208-496" transform="translate(1.16293,-13.576)" v:mID="1208" v:groupContext="group">
+				<title>시트.1208</title>
+				<g id="shape1209-497" v:mID="1209" v:groupContext="shape" transform="translate(0,-3.14205)">
+					<title>시트.1209</title>
+					<path d="M0.21 592.29 A14.6658 13.6959 -180 0 0 6.02 595.28 a0.298001 0.278293 -180 0 0 0 -0.543012 A14.2668
+								 13.3233 0 0 1 0.32 591.83 a0.193061 0.180293 -180 0 0 -0.322312 0.15327 a0.420767 0.392941 -180
+								 0 0 0.206019 0.302859 Z" class="st16"/>
+				</g>
+				<g id="shape1210-499" v:mID="1210" v:groupContext="shape" transform="translate(1.84925,-3.82651)">
+					<title>시트.1210</title>
+					<path d="M1.79 595.25 A2.17915 1.32658 -90.9 0 0 0.04 594.38 a1.43377 0.71483 -180 0 0 1.7444 0.868819 Z"
+							class="st17"/>
+				</g>
+				<g id="shape1211-502" v:mID="1211" v:groupContext="shape" transform="translate(0.232586,-0.0271506)">
+					<title>시트.1211</title>
+					<path d="M0 590.77 L0 592.29 A15.776 14.7327 -180 0 0 5.81 595.28 L5.81 593.76 A16.2923 15.2149 0 0 1 -0 590.77
+								 Z" class="st18"/>
+				</g>
+				<g id="shape1212-505" v:mID="1212" v:groupContext="shape" transform="translate(0.232586,-0.868819)">
+					<title>시트.1212</title>
+					<path d="M0 592.29 A14.2791 13.3347 -180 0 0 5.81 595.28 L5.81 594.9 A15.7823 14.7386 0 0 1 0 591.91 L0 592.29
+								 Z" class="st19"/>
+				</g>
+				<g id="shape1213-507" v:mID="1213" v:groupContext="shape" transform="translate(0.232586,-0.0543012)">
+					<title>시트.1213</title>
+					<path d="M0 590.77 L0 592.29 A15.776 14.7327 -180 0 0 5.81 595.28" class="st10"/>
+				</g>
+				<g id="shape1214-510" v:mID="1214" v:groupContext="shape" transform="translate(0.232586,0)">
+					<title>시트.1214</title>
+					<path d="M5.81 595.28 L5.81 593.76 A16.2923 15.2149 0 0 1 -0 590.77" class="st20"/>
+				</g>
+			</g>
+		</g>
+		<g id="shape1216-514" v:mID="1216" v:groupContext="shape" transform="translate(334.116,-291.394)">
+			<title>시트.1216</title>
+			<desc>SW4</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="13.4646" cy="588.189" width="26.93" height="14.1732"/>
+			<rect x="0" y="581.102" width="26.9291" height="14.1732" class="st32"/>
+			<text x="4.25" y="590.89" class="st33" v:langID="1042"><v:paragraph v:horizAlign="1"/><v:tabList/>SW4</text>		</g>
+		<g id="group1217-517" transform="translate(334.488,-229.711)" v:mID="1217" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="Scale" v:val="VT0(1):26"/>
+				<v:ud v:nameU="AntiScale" v:val="VT0(1):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+			</v:userDefs>
+			<title>상자 설명선.1217</title>
+			<g id="shape1218-518" v:mID="1218" v:groupContext="shape" transform="translate(-387.851,1046.86) rotate(-139.342)">
+				<title>시트.1218</title>
+				<path d="M0 595.28 L43.35 595.28" class="st34"/>
+			</g>
+			<g id="shape1219-521" v:mID="1219" v:groupContext="shape" transform="translate(-62.3622,15.5906)">
+				<title>시트.1219</title>
+				<desc>enp0s3 210.100.100.10/24 enp0s8 NAT</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="62.3622" cy="579.685" width="124.73" height="31.1811"/>
+				<rect x="0" y="564.094" width="124.724" height="31.1811" class="st35"/>
+				<text x="4" y="576.99" class="st33" v:langID="1042"><v:paragraph/><v:tabList/>enp0s3 210.100.100.10/24<v:newlineChar/><v:paragraph/><tspan
+							x="4" dy="1.2em" class="st36">enp0s8 NAT</tspan></text>			</g>
+		</g>
+		<g id="shape1220-525" v:mID="1220" v:groupContext="shape" transform="translate(267.944,-293.386)">
+			<title>시트.1220</title>
+			<desc>abc.com</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="27.603" cy="588.189" width="55.21" height="14.1732"/>
+			<rect x="0" y="581.102" width="55.2059" height="14.1732" class="st32"/>
+			<text x="10.67" y="590.89" class="st33" v:langID="1042"><v:paragraph v:horizAlign="1"/><v:tabList/>abc.com</text>		</g>
+		<g id="shape1221-528" v:mID="1221" v:groupContext="shape" transform="translate(301.827,-317.48)">
+			<title>시트.1221</title>
+			<desc>fa0/1</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.7481" cy="588.189" width="35.5" height="14.1732"/>
+			<rect x="0" y="581.102" width="35.4962" height="14.1732" class="st32"/>
+			<text x="7.25" y="590.89" class="st33" v:langID="1042"><v:paragraph v:horizAlign="1"/><v:tabList/>fa0/1</text>		</g>
+		<g id="group1222-531" transform="translate(197.748,-263.622)" v:mID="1222" v:groupContext="group">
+			<v:custProps>
+				<v:cp v:nameU="Manufacturer" v:lbl="제조업체" v:type="0" v:sortKey="Equipment" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="ProductNumber" v:lbl="제품 번호" v:type="0" v:sortKey="Equipment" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="PartNumber" v:lbl="부품 번호" v:type="0" v:sortKey="Equipment" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="ProductDescription" v:lbl="제품 설명" v:type="0" v:sortKey="Equipment" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="AssetNumber" v:lbl="자산 번호" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="SerialNumber" v:lbl="일련 번호" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="Location" v:lbl="위치" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false" v:langID="1042"/>
+				<v:cp v:nameU="Building" v:lbl="건물" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false" v:langID="1042"/>
+				<v:cp v:nameU="Room" v:lbl="방" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false" v:langID="1042"/>
+				<v:cp v:nameU="Department" v:lbl="부서" v:type="0" v:invis="false" v:ask="false" v:langID="1042"/>
+				<v:cp v:nameU="NetworkName" v:lbl="네트워크 이름" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="IPAddress" v:lbl="IP 주소" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="SubnetMask" v:lbl="서브넷 마스크" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="AdminInterface" v:lbl="관리 인터페이스" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="NumberofPorts" v:lbl="포트 수" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="CommunityString" v:lbl="커뮤니티 문자열" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="NetworkDescription" v:lbl="네트워크 설명" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="CPU" v:lbl="CPU" v:type="0" v:sortKey="Workstation" v:invis="false" v:ask="false" v:langID="1042"/>
+				<v:cp v:nameU="Memory" v:lbl="메모리" v:type="0" v:sortKey="Workstation" v:invis="false" v:ask="false" v:langID="1042"/>
+				<v:cp v:nameU="OperatingSystem" v:lbl="운영 체제" v:type="0" v:sortKey="Workstation" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="BelongsTo" v:lbl="소속" v:type="0" v:invis="true" v:ask="false" v:langID="1042"/>
+				<v:cp v:nameU="ShapeClass" v:lbl="ShapeClass" v:type="0" v:invis="true" v:ask="false" v:langID="1042"
+						v:val="VT4(장비)"/>
+				<v:cp v:nameU="ShapeType" v:lbl="ShapeType" v:type="0" v:invis="true" v:ask="false" v:langID="1042"
+						v:val="VT4(컴퓨터)"/>
+				<v:cp v:nameU="SubShapeType" v:lbl="SubShapeType" v:type="0" v:invis="true" v:ask="false" v:langID="1042"
+						v:val="VT4(데스크톱)"/>
+				<v:cp v:nameU="MACAddress" v:lbl="MAC 주소" v:type="0" v:sortKey="Network" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="HardDriveSize" v:lbl="하드 드라이브 용량" v:type="0" v:sortKey="Workstation" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="HasText" v:val="VT0(0):5"/>
+				<v:ud v:nameU="ShapeClass" v:val="VT0(5):26"/>
+				<v:ud v:nameU="ShapeType" v:val="VT0(6):26"/>
+				<v:ud v:nameU="SubShapeType" v:val="VT0(17):26"/>
+				<v:ud v:nameU="SolSH" v:val="VT15({BF0433D9-CD73-4EB5-8390-8653BE590246}):41"/>
+				<v:ud v:nameU="visLegendShape" v:val="VT0(2):26"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+			</v:userDefs>
+			<title>PC.1222</title>
+			<g id="shape1223-532" v:mID="1223" v:groupContext="shape">
+				<title>시트.1223</title>
+				<path d="M26.3 576.56 L26.3 570.17 L18.98 565.9 L15.6 566.87 L13.29 565.51 L10.6 566.58 L10.6 576.7 L8.04 578.21
+							 L8.04 582.87 A25.8986 26.0674 -180 0 0 19.26 589.36 L29.76 583.25 L29.76 578.6 L26.3 576.56 ZM0 587.33
+							 L0 588.68 L11.37 595.28 L16.66 592.17 L16.66 590.43 L5.11 583.74 L0 587.33 Z" class="st2"/>
+			</g>
+			<g id="shape1224-534" v:mID="1224" v:groupContext="shape" transform="translate(11.3661,0)">
+				<title>시트.1224</title>
+				<path d="M0 595.28 L0 593.93 L5.3 590.43 L5.3 592.17 L0 595.28 Z" class="st7"/>
+			</g>
+			<g id="shape1225-537" v:mID="1225" v:groupContext="shape" transform="translate(1.51879E-13,-1.34496)">
+				<title>시트.1225</title>
+				<path d="M0 588.67 L5.11 585.08 L16.66 591.77 L11.37 595.28 L0 588.67 Z" class="st3"/>
+			</g>
+			<g id="shape1226-540" v:mID="1226" v:groupContext="shape" transform="translate(8.04296,-10.5743)">
+				<title>시트.1226</title>
+				<path d="M11.22 595.28 L21.72 589.17 L10.45 582.58 L0 588.79 A26.4837 26.6563 -180 0 0 11.22 595.28 Z" class="st3"/>
+			</g>
+			<g id="shape1227-543" v:mID="1227" v:groupContext="shape" transform="translate(20.0352,-12.4097)">
+				<title>시트.1227</title>
+				<path d="M0 595.28 L0 584.42 L2.21 583.13 L2.12 593.43 L0 595.28 Z" class="st7"/>
+			</g>
+			<g id="shape1228-546" v:mID="1228" v:groupContext="shape" transform="translate(22.1543,-15.3182)">
+				<title>시트.1228</title>
+				<path d="M0.08 587.05 L4.14 585.48 L4.14 591.88 L0 595.28 L0.08 587.05 Z" class="st7"/>
+			</g>
+			<g id="shape1229-549" v:mID="1229" v:groupContext="shape" transform="translate(15.6043,-23.5437)">
+				<title>시트.1229</title>
+				<path d="M6.63 595.28 L6.64 594.26 L0 590.41 L3.37 589.44 L10.69 593.71 L6.63 595.28 Z" class="st3"/>
+			</g>
+			<g id="shape1230-552" v:mID="1230" v:groupContext="shape" transform="translate(19.2646,-5.91398)">
+				<title>시트.1230</title>
+				<path d="M0 590.62 L10.5 584.51 L10.5 589.17 L0 595.28 L0 590.62 Z" class="st7"/>
+			</g>
+			<g id="shape1231-555" v:mID="1231" v:groupContext="shape" transform="translate(10.5955,-23.2681)">
+				<title>시트.1231</title>
+				<path d="M0 589.85 L2.7 588.78 L5.02 590.14 L11.65 593.99 L9.44 595.28 A26.4322 26.6044 0 0 1 -0 589.85 Z"
+						class="st3"/>
+			</g>
+			<g id="shape1232-558" v:mID="1232" v:groupContext="shape">
+				<title>시트.1232</title>
+				<path d="M0 587.33 L11.37 593.93 L11.37 595.28 L0 588.68 L0 587.33 Z" class="st8"/>
+			</g>
+			<g id="group1233-561" transform="translate(1.23781,-2.03624)" v:mID="1233" v:groupContext="group">
+				<title>시트.1233</title>
+				<g id="shape1234-562" v:mID="1234" v:groupContext="shape" transform="translate(0,-0.198451)">
+					<title>시트.1234</title>
+					<path d="M0 589.18 L0.83 589.68 L1.53 589.22 L0.69 588.73 L0 589.18 ZM1.03 588.49 L1.87 588.99 L2.56 588.53 L1.73
+								 588.03 L1.03 588.49 ZM2.06 587.8 L2.9 588.29 L3.59 587.83 L2.76 587.34 L2.06 587.8 ZM3.1 587.1 L3.93
+								 587.6 L4.62 587.14 L3.79 586.64 L3.1 587.1 ZM4.64 588.03 L5.48 588.53 L6.17 588.07 L5.34 587.58
+								 L4.64 588.03 ZM6.19 588.97 L7.02 589.46 L7.72 589.01 L6.89 588.51 L6.19 588.97 ZM7.74 589.9 L8.57
+								 590.39 L9.27 589.94 L8.43 589.44 L7.74 589.9 ZM10.83 591.76 L11.67 592.26 L12.36 591.8 L11.53 591.31
+								 L10.83 591.76 ZM12.38 592.7 L13.22 593.19 L13.91 592.74 L13.08 592.24 L12.38 592.7 ZM11.35 593.39
+								 L12.18 593.89 L12.88 593.43 L12.04 592.93 L11.35 593.39 ZM9.8 592.46 L10.64 592.95 L11.33 592.5
+								 L10.5 592 L9.8 592.46 ZM9.29 590.83 L10.12 591.33 L10.81 590.87 L9.98 590.37 L9.29 590.83 ZM8.25
+								 591.53 L9.09 592.02 L9.78 591.56 L8.95 591.07 L8.25 591.53 ZM6.71 590.59 L7.54 591.09 L8.23 590.63
+								 L7.4 590.14 L6.71 590.59 ZM5.16 589.66 L5.99 590.16 L6.69 589.7 L5.85 589.2 L5.16 589.66 ZM3.61
+								 588.73 L4.44 589.22 L5.14 588.77 L4.31 588.27 L3.61 588.73 ZM2.58 589.42 L3.41 589.92 L4.11 589.46
+								 L3.27 588.97 L2.58 589.42 ZM4.13 590.35 L4.96 590.85 L5.66 590.39 L4.82 589.9 L4.13 590.35 ZM5.68
+								 591.29 L6.51 591.78 L7.2 591.33 L6.37 590.83 L5.68 591.29 ZM7.22 592.22 L8.06 592.72 L8.75 592.26
+								 L7.92 591.76 L7.22 592.22 ZM8.77 593.15 L9.6 593.65 L10.3 593.19 L9.46 592.7 L8.77 593.15 ZM10.32
+								 594.09 L11.15 594.58 L11.85 594.12 L11.01 593.63 L10.32 594.09 ZM9.29 594.78 L10.12 595.28 L10.81
+								 594.82 L9.98 594.32 L9.29 594.78 ZM7.74 593.85 L8.57 594.34 L9.27 593.89 L8.43 593.39 L7.74 593.85
+								 ZM3.1 591.05 L7.02 593.41 L7.72 592.95 L3.79 590.59 L3.1 591.05 ZM1.55 590.12 L2.38 590.61 L3.08
+								 590.16 L2.24 589.66 L1.55 590.12 Z" class="st21"/>
+				</g>
+				<g id="shape1235-564" v:mID="1235" v:groupContext="shape" transform="translate(0.000327349,0)">
+					<title>시트.1235</title>
+					<path d="M3.1 587.1 L3.93 587.6 L3.93 587.4 L3.1 586.9 L3.1 587.1 ZM4.64 588.03 L5.48 588.53 L5.48 588.33 L4.64
+								 587.83 L4.64 588.03 ZM6.19 588.97 L7.02 589.46 L7.02 589.26 L6.19 588.77 L6.19 588.97 ZM7.74 589.9
+								 L8.57 590.39 L8.57 590.2 L7.74 589.7 L7.74 589.9 ZM9.29 590.83 L10.12 591.33 L10.12 591.13 L9.29
+								 590.63 L9.29 590.83 ZM10.83 591.76 L11.67 592.26 L11.67 592.06 L10.83 591.56 L10.83 591.76 ZM3.93
+								 587.4 L3.93 587.6 L4.62 587.14 L4.62 586.94 L3.93 587.4 ZM5.48 588.33 L5.48 588.53 L6.17 588.07
+								 L6.17 587.87 L5.48 588.33 ZM7.02 589.26 L7.02 589.46 L7.72 589 L7.72 588.81 L7.02 589.26 ZM8.57
+								 590.2 L8.57 590.39 L9.27 589.94 L9.27 589.74 L8.57 590.2 ZM10.12 591.13 L10.12 591.33 L10.81 590.87
+								 L10.81 590.67 L10.12 591.13 ZM11.67 592.06 L11.67 592.26 L12.36 591.8 L12.36 591.6 L11.67 592.06
+								 ZM12.38 592.7 L13.21 593.19 L13.21 592.99 L12.38 592.5 L12.38 592.7 ZM13.21 592.99 L13.21 593.19
+								 L13.91 592.74 L13.91 592.54 L13.21 592.99 ZM2.06 587.79 L2.9 588.29 L2.9 588.09 L2.06 587.6 L2.06
+								 587.79 ZM3.61 588.73 L4.44 589.22 L4.44 589.03 L3.61 588.53 L3.61 588.73 ZM5.16 589.66 L5.99 590.16
+								 L5.99 589.96 L5.16 589.46 L5.16 589.66 ZM6.71 590.59 L7.54 591.09 L7.54 590.89 L6.71 590.39 L6.71
+								 590.59 ZM8.25 591.52 L9.09 592.02 L9.09 591.82 L8.25 591.33 L8.25 591.52 ZM9.8 592.46 L10.64 592.95
+								 L10.64 592.76 L9.8 592.26 L9.8 592.46 ZM2.9 588.09 L2.9 588.29 L3.59 587.83 L3.59 587.64 L2.9 588.09
+								 ZM4.44 589.02 L4.44 589.22 L5.14 588.77 L5.14 588.57 L4.44 589.02 ZM5.99 589.96 L5.99 590.16 L6.69
+								 589.7 L6.69 589.5 L5.99 589.96 ZM7.54 590.89 L7.54 591.09 L8.23 590.63 L8.23 590.43 L7.54 590.89
+								 ZM9.09 591.82 L9.09 592.02 L9.78 591.56 L9.78 591.37 L9.09 591.82 ZM10.64 592.76 L10.64 592.95 L11.33
+								 592.5 L11.33 592.3 L10.64 592.76 ZM11.35 593.39 L12.18 593.89 L12.18 593.69 L11.35 593.19 L11.35
+								 593.39 ZM12.18 593.69 L12.18 593.89 L12.88 593.43 L12.88 593.23 L12.18 593.69 ZM1.03 588.49 L1.87
+								 588.99 L1.87 588.79 L1.03 588.29 L1.03 588.49 ZM2.58 589.42 L3.41 589.92 L3.41 589.72 L2.58 589.22
+								 L2.58 589.42 ZM4.13 590.35 L4.96 590.85 L4.96 590.65 L4.13 590.16 L4.13 590.35 ZM5.67 591.29 L6.51
+								 591.78 L6.51 591.58 L5.67 591.09 L5.67 591.29 ZM7.22 592.22 L8.06 592.72 L8.06 592.52 L7.22 592.02
+								 L7.22 592.22 ZM8.77 593.15 L9.6 593.65 L9.6 593.45 L8.77 592.95 L8.77 593.15 ZM1.86 588.79 L1.86
+								 588.98 L2.56 588.53 L2.56 588.33 L1.86 588.79 ZM3.41 589.72 L3.41 589.92 L4.11 589.46 L4.11 589.26
+								 L3.41 589.72 ZM4.96 590.65 L4.96 590.85 L5.65 590.39 L5.65 590.2 L4.96 590.65 ZM6.51 591.58 L6.51
+								 591.78 L7.2 591.33 L7.2 591.13 L6.51 591.58 ZM8.06 592.52 L8.06 592.72 L8.75 592.26 L8.75 592.06
+								 L8.06 592.52 ZM9.6 593.45 L9.6 593.65 L10.3 593.19 L10.3 592.99 L9.6 593.45 ZM10.32 594.08 L11.15
+								 594.58 L11.15 594.38 L10.32 593.89 L10.32 594.08 ZM11.15 594.38 L11.15 594.58 L11.85 594.12 L11.85
+								 593.93 L11.15 594.38 ZM0 589.18 L0.83 589.68 L0.83 589.48 L0 588.99 L0 589.18 ZM1.55 590.12 L2.38
+								 590.61 L2.38 590.41 L1.55 589.92 L1.55 590.12 ZM3.1 591.05 L7.02 593.41 L7.02 593.21 L3.1 590.85
+								 L3.1 591.05 ZM7.74 593.85 L8.57 594.34 L8.57 594.14 L7.74 593.65 L7.74 593.85 ZM0.83 589.48 L0.83
+								 589.68 L1.53 589.22 L1.53 589.02 L0.83 589.48 ZM2.38 590.41 L2.38 590.61 L3.08 590.16 L3.08 589.96
+								 L2.38 590.41 ZM7.02 593.21 L7.02 593.41 L7.72 592.95 L7.72 592.76 L7.02 593.21 ZM8.57 594.14 L8.57
+								 594.34 L9.27 593.89 L9.27 593.69 L8.57 594.14 ZM9.29 594.78 L10.12 595.28 L10.12 595.08 L9.29 594.58
+								 L9.29 594.78 ZM10.12 595.08 L10.12 595.28 L10.81 594.82 L10.81 594.62 L10.12 595.08 Z"
+							class="st22"/>
+				</g>
+			</g>
+			<g id="shape1236-566" v:mID="1236" v:groupContext="shape" transform="translate(27.3118,-11.9685)">
+				<title>시트.1236</title>
+				<path d="M0.72 592.41 L1.32 592.03 L1.32 594.51 L0.72 594.89 L0.72 592.41 ZM0 592.8 L0.33 592.6 L0.33 595.08 L0 595.28
+							 L0 592.8 Z" class="st23"/>
+			</g>
+			<g id="shape1237-568" v:mID="1237" v:groupContext="shape" transform="translate(8.04296,-5.91398)">
+				<title>시트.1237</title>
+				<path d="M11.99 588.78 A21.4589 21.5987 0 0 1 2.55 583.45 L2.55 572.49 A26.0075 26.1769 -180 0 0 11.99 577.92 L11.99
+							 588.78 ZM-0 588.78 A25.8986 26.0674 -180 0 0 11.22 595.28 L11.22 590.62 A26.0616 26.2314 0 0 1 -0 584.13
+							 L0 588.78 Z" class="st24"/>
+				<path d="M11.99 588.78 A21.4589 21.5987 0 0 1 2.55 583.45 L2.55 572.49 A26.0075 26.1769 -180 0 0 11.99 577.92 L11.99
+							 588.78" class="st25"/>
+				<path d="M0.82 586.07 A15.4046 15.3049 -90 0 0 3.32 588.1" class="st25"/>
+				<path d="M0.82 586.74 A15.4046 15.3049 -90 0 0 3.32 588.78" class="st25"/>
+				<path d="M0.82 587.42 A15.4046 15.3049 -90 0 0 3.32 589.46" class="st25"/>
+				<path d="M0.82 588.1 A15.4046 15.3049 -90 0 0 3.32 590.14" class="st25"/>
+				<path d="M9.87 573.6 L14.3 576.18" class="st25"/>
+				<path d="M10.45 573.44 L14.88 576.02" class="st25"/>
+				<path d="M11.03 573.28 L15.46 575.85" class="st25"/>
+				<path d="M11.61 573.12 L16.04 575.69" class="st25"/>
+				<path d="M-0 588.78 A25.8986 26.0674 -180 0 0 11.22 595.28 L11.22 590.62 A26.0616 26.2314 0 0 1 -0 584.13 L0 588.78"
+						class="st25"/>
+			</g>
+			<g id="shape1238-581" v:mID="1238" v:groupContext="shape" transform="translate(11.7514,-14.3659)">
+				<title>시트.1238</title>
+				<path d="M0 583.37 L0 591.22 A22.1924 22.0487 -90.11 0 0 6.84 595.28" class="st26"/>
+			</g>
+			<g id="shape1239-585" v:mID="1239" v:groupContext="shape">
+				<title>시트.1239</title>
+				<path d="M19.26 589.36 L29.76 583.25 L29.76 578.6 L26.3 576.56 L26.3 570.17 L18.98 565.9 L15.6 566.87 L13.29 565.51
+							 L10.6 566.58 L10.6 576.76 L8.04 578.21 L8.04 582.87 A26.5162 26.3446 -90 0 0 19.26 589.36 ZM0 587.33
+							 L5.11 583.74 L16.66 590.43 L16.66 592.17 L11.37 595.28 L0 588.68 L0 587.33 Z" class="st27"/>
+			</g>
+			<g id="group1240-587" transform="translate(13.9668,-7.56213)" v:mID="1240" v:groupContext="group">
+				<title>시트.1240</title>
+				<g id="shape1241-588" v:mID="1241" v:groupContext="shape" transform="translate(0.933536,0)">
+					<title>시트.1241</title>
+					<path d="M0.32 593.24 L3.59 594.55 a0.379688 0.382162 0 0 1 -0.0963229 0.727128 L0.32 594.02 a0.392257 0.394813
+								 0 0 1 -5.32907E-15 -0.775603 Z" class="st28"/>
+				</g>
+				<g id="shape1242-590" v:mID="1242" v:groupContext="shape" transform="translate(2.34812E-14,-1.35731)">
+					<title>시트.1242</title>
+					<path d="M0 592.37 L4.72 594.31 L4.72 595.28 L0 593.43 L0 592.37 Z" class="st29"/>
+				</g>
+				<g id="shape1243-592" v:mID="1243" v:groupContext="shape" transform="translate(2.34812E-14,-1.35731)">
+					<title>시트.1243</title>
+					<path d="M0 592.37 L4.72 594.31 L4.72 595.28" class="st20"/>
+				</g>
+				<g id="shape1244-595" v:mID="1244" v:groupContext="shape" transform="translate(2.34812E-14,-1.93901)">
+					<title>시트.1244</title>
+					<path d="M0 593.34 L4.72 595.28" class="st20"/>
+				</g>
+				<g id="shape1245-598" v:mID="1245" v:groupContext="shape" transform="translate(-2.39808E-14,-1.35731)">
+					<title>시트.1245</title>
+					<path d="M0 592.37 L0 593.43 L4.72 595.28" class="st10"/>
+				</g>
+			</g>
+			<g id="shape1246-601" v:mID="1246" v:groupContext="shape" transform="translate(-280.054,66.4115) rotate(-30)">
+				<title>시트.1246</title>
+				<ellipse cx="0.323022" cy="594.843" rx="0.323022" ry="0.432096" class="st30"/>
+			</g>
+			<g id="shape1247-604" v:mID="1247" v:groupContext="shape" transform="translate(11.7514,-14.3659)">
+				<title>시트.1247</title>
+				<path d="M0.29 591.04 L0.29 583.66 L0 583.37 A16.7388 16.6305 -90.48 0 0 6.84 587.44 L6.84 595.28 L6.84 594.93 A21.1451
+							 21.0082 91.46 0 1 0.29 591.04 Z" class="st31"/>
+			</g>
+		</g>
+		<g id="shape1249-607" v:mID="1249" v:groupContext="shape" transform="translate(192.756,-294.803)">
+			<title>시트.1249</title>
+			<desc>Client2</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="20.4499" cy="588.189" width="40.9" height="14.1732"/>
+			<rect x="0" y="581.102" width="40.8999" height="14.1732" class="st32"/>
+			<text x="6.34" y="590.89" class="st33" v:langID="1042"><v:paragraph v:horizAlign="1"/><v:tabList/>Client2</text>		</g>
+		<g id="group1250-610" transform="translate(216.8,-230.97)" v:mID="1250" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="Scale" v:val="VT0(1):26"/>
+				<v:ud v:nameU="AntiScale" v:val="VT0(1):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
+			</v:userDefs>
+			<title>상자 설명선.1250</title>
+			<g id="shape1251-611" v:mID="1251" v:groupContext="shape" transform="translate(-570.762,764.342) rotate(-106.5)">
+				<title>시트.1251</title>
+				<path d="M0 595.28 L24.77 595.28" class="st34"/>
+			</g>
+			<g id="shape1252-614" v:mID="1252" v:groupContext="shape" transform="translate(-52.2891,13.8321)">
+				<title>시트.1252</title>
+				<desc>enp0s3 192.168.1.20/24 enp0s8 NAT</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="52.2891" cy="581.444" width="104.58" height="27.6641"/>
+				<rect x="0" y="567.611" width="104.578" height="27.6641" class="st35"/>
+				<text x="4" y="578.74" class="st33" v:langID="1042"><v:paragraph/><v:tabList/>enp0s3 192.168.1.20/24<v:newlineChar/><v:paragraph/><tspan
+							x="4" dy="1.2em" class="st36">enp0s8 NAT</tspan></text>			</g>
+		</g>
+		<g id="group1253-618" transform="translate(464.971,-316.508)" v:mID="1253" v:groupContext="group">
+			<v:custProps>
+				<v:cp v:nameU="ShapeClass" v:lbl="ShapeClass" v:type="0" v:invis="true" v:ask="false" v:langID="1042"
+						v:val="VT4(장비)"/>
+				<v:cp v:nameU="ShapeType" v:lbl="ShapeType" v:type="0" v:invis="true" v:ask="false" v:langID="1042" v:val="VT4(장치)"/>
+				<v:cp v:nameU="SubShapeType" v:lbl="SubShapeType" v:type="0" v:invis="true" v:ask="false" v:langID="1042"
+						v:val="VT4(방화벽)"/>
+				<v:cp v:nameU="Manufacturer" v:lbl="제조업체" v:type="0" v:sortKey="Equipment" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="ProductNumber" v:lbl="제품 번호" v:type="0" v:sortKey="Equipment" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="PartNumber" v:lbl="부품 번호" v:type="0" v:sortKey="Equipment" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="ProductDescription" v:lbl="제품 설명" v:type="0" v:sortKey="Equipment" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="AssetNumber" v:lbl="자산 번호" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="SerialNumber" v:lbl="일련 번호" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false"
+						v:langID="1042"/>
+				<v:cp v:nameU="Location" v:lbl="위치" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false" v:langID="1042"/>
+				<v:cp v:nameU="Building" v:lbl="건물" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false" v:langID="1042"/>
+				<v:cp v:nameU="Room" v:lbl="방" v:type="0" v:sortKey="Asset" v:invis="false" v:ask="false" v:langID="1042"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="HasText" v:val="VT0(0):5"/>
+				<v:ud v:nameU="ShapeClass" v:val="VT0(5):26"/>
+				<v:ud v:nameU="ShapeType" v:val="VT0(8):26"/>
+				<v:ud v:nameU="SubShapeType" v:val="VT0(27):26"/>
+				<v:ud v:nameU="SolSH" v:val="VT15({BF0433D9-CD73-4EB5-8390-8653BE590246}):41"/>
+				<v:ud v:nameU="visLegendShape" v:val="VT0(2):26"/>
+			</v:userDefs>
+			<title>방화벽.1253</title>
+			<g id="shape1254-619" v:mID="1254" v:groupContext="shape" transform="translate(16.6299,0)">
+				<title>시트.1254</title>
+				<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+				<path d="M0 570.63 L0 595.28 L6.05 591.8 L6.05 567.08 L0 570.63 Z" class="st37"/>
+			</g>
+			<g id="shape1255-626" v:mID="1255" v:groupContext="shape" transform="translate(0,-24.6425)">
+				<title>시트.1255</title>
+				<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+				<path d="M0 585.6 L16.63 595.28 L22.68 591.72 L6.05 582.12 L0 585.6 Z" class="st38"/>
+			</g>
+			<g id="shape1256-631" v:mID="1256" v:groupContext="shape">
+				<title>시트.1256</title>
+				<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+				<path d="M0 585.6 L16.63 595.28 L16.63 570.63 L0 560.96 L0 585.6 Z" class="st39"/>
+			</g>
+			<g id="shape1257-637" v:mID="1257" v:groupContext="shape" transform="translate(1.51181,-1.81417)">
+				<title>시트.1257</title>
+				<path d="M0 563.68 L15.12 572.45 L19.65 569.88" class="st40"/>
+				<path d="M15.12 572.45 L15.12 595.28" class="st40"/>
+				<path d="M0 567.76 L15.12 576.53" class="st40"/>
+				<path d="M0 571.84 L15.12 580.61" class="st40"/>
+				<path d="M0 575.92 L15.12 584.69" class="st40"/>
+				<path d="M0 580.16 L15.12 588.93" class="st40"/>
+				<path d="M0 584.24 L15.12 593.01" class="st40"/>
+				<path d="M11.04 586.51 L11.04 590.59" class="st40"/>
+				<path d="M2.72 581.82 L2.72 585.9" class="st40"/>
+				<path d="M6.8 579.86 L6.8 584.09" class="st40"/>
+				<path d="M11.04 578.34 L11.04 582.27" class="st40"/>
+				<path d="M2.72 573.51 L2.72 577.44" class="st40"/>
+				<path d="M6.8 571.69 L6.8 575.77" class="st40"/>
+				<path d="M2.72 565.34 L2.72 569.27" class="st40"/>
+			</g>
+			<g id="shape1258-655" v:mID="1258" v:groupContext="shape">
+				<title>시트.1258</title>
+				<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+				<path d="M0 585.6 L16.63 595.28 L22.68 591.8 L22.68 567.08 L6.05 557.48 L0 560.96 L0 585.6" class="st6"/>
+			</g>
+		</g>
+		<g id="shape1261-658" v:mID="1261" v:groupContext="shape" transform="translate(453.189,-350.079)">
+			<title>시트.1261</title>
+			<desc>Firewall</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="20.4499" cy="588.189" width="40.9" height="14.1732"/>
+			<rect x="0" y="581.102" width="40.8999" height="14.1732" class="st32"/>
+			<text x="5.23" y="590.89" class="st33" v:langID="1042"><v:paragraph v:horizAlign="1"/><v:tabList/>Firewall</text>		</g>
+		<g id="shape1176-661" v:mID="1176" v:groupContext="shape" v:layerMember="2" transform="translate(289.134,-369.921)">
+			<title>채워짐</title>
+			<desc>s0/0 14.58.90.5/30 s0/1 14.58.90.9/30 fa0/0 192.168.1.254/24 ...</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Callout)"/>
+				<v:ud v:nameU="msvSDTargetIntersection" v:prompt=""/>
+				<v:ud v:nameU="msvSDCalloutNoHighlight" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="Side" v:prompt="" v:val="VT0(4):26"/>
+				<v:ud v:nameU="LeaderEnd" v:prompt="" v:val="VT7(PNT(6.25MM,-6.4MM)):40"/>
+				<v:ud v:nameU="WHBoxIntersection" v:prompt="" v:val="VT7(PNT(10.096153846154MM,0MM)):40"/>
+				<v:ud v:nameU="Embellishment" v:prompt="" v:val="VT0(2):26"/>
+				<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#96afcf)"/>
+				<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#1f477d)"/>
+				<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#1f477d)"/>
+				<v:ud v:nameU="msvSDTargetIntersection" v:prompt="" v:val="VT7(PNT(0.78740157762067,-0.098425205025622)):40"/>
+				<v:ud v:nameU="LeaderEnd" v:prompt="" v:val="VT7(PNT(0.78740157762067,-0.098425205025622)):40"/>
+				<v:ud v:nameU="WHBoxIntersection" v:prompt="" v:val="VT7(PNT(0.78740157773521,0)):40"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="567.638" width="113.39" height="51.2036"/>
+			<path d="M0 595.28 L113.39 595.28 L113.39 540 L0 540 L0 595.28 Z" class="st41"/>
+			<path d="M56.69 595.28 L56.69 602.36" class="st42"/>
+			<path d="M0 595.28 L113.39 595.28 L113.39 540 L0 540 L0 595.28" class="st42"/>
+			<text x="4" y="554.14" class="st33" v:langID="1042"><v:paragraph/><v:tabList/>s0/0 14.58.90.5/30<v:newlineChar/><tspan
+						x="4" dy="1.2em" class="st36">s0/1 14.58.90.9/30<v:newlineChar/></tspan><tspan x="4" dy="1.2em"
+						class="st36">fa0/0 192.168.1.254/24<v:newlineChar/></tspan><tspan x="4" dy="1.2em" class="st36">fa0/1 210.100.100.254/24</tspan></text>		</g>
+	</g>
+</svg>
